@@ -1,0 +1,5 @@
+data/songs.csv
+*.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

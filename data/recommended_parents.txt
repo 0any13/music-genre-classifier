@@ -1,0 +1,23 @@
+RECOMMENDED PARENT GENRES FOR TRAINING
+============================================================
+
+pop: 41,051 songs, 417 subgenres
+indie: 40,375 songs, 411 subgenres
+rock: 37,218 songs, 379 subgenres
+hip hop: 35,038 songs, 355 subgenres
+metal: 19,818 songs, 204 subgenres
+punk: 16,647 songs, 169 subgenres
+folk: 15,895 songs, 164 subgenres
+classical: 14,881 songs, 157 subgenres
+jazz: 13,107 songs, 134 subgenres
+electro: 10,411 songs, 106 subgenres
+house: 8,816 songs, 89 subgenres
+trap: 6,373 songs, 64 subgenres
+black metal: 5,933 songs, 63 subgenres
+techno: 5,360 songs, 55 subgenres
+reggae: 4,497 songs, 45 subgenres
+traditional: 4,495 songs, 50 subgenres
+hardcore: 4,391 songs, 46 subgenres
+death metal: 4,367 songs, 45 subgenres
+blues: 4,174 songs, 43 subgenres
+country: 3,944 songs, 40 subgenres

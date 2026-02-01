@@ -1,0 +1,5571 @@
+Genre,parent_genre,song_count
+pop,pop,100
+dance pop,pop,100
+rap,hip hop,100
+post-teen pop,pop,100
+rock,rock,100
+latin,latin,100
+hip hop,hip hop,100
+pop rap,hip hop,100
+trap latino,trap,100
+trap,trap,100
+modern rock,rock,100
+edm,edm,100
+reggaeton,reggaeton,100
+pop dance,pop,100
+electropop,electro,100
+pop rock,rock,100
+classic rock,rock,100
+tropical house,house,100
+latin pop,pop,100
+mellow gold,gold,100
+r&amp;b,r&amp;b,100
+soft rock,rock,100
+regional mexican,mexican,100
+album rock,rock,100
+k-pop,k-pop,100
+canadian pop,pop,100
+permanent wave,wave,100
+alternative metal,metal,100
+indie pop,pop,100
+contemporary country,country,100
+southern hip hop,hip hop,100
+corrido,corrido,100
+melodic rap,hip hop,100
+electro house,house,100
+uk pop,pop,100
+urban contemporary,contemporary,100
+country,country,100
+hard rock,rock,100
+nu metal,metal,100
+alt z,alternative,100
+alternative rock,rock,100
+nuevo regional mexicano,mexicano,100
+neo mellow,mellow,100
+rock en espanol,rock,100
+ranchera,ranchera,100
+gangster rap,hip hop,100
+latin hip hop,hip hop,100
+tropical,tropical,100
+chicago rap,hip hop,100
+country road,country,100
+modern alternative rock,rock,100
+underground hip hop,hip hop,100
+folk rock,rock,100
+canadian hip hop,hip hop,100
+new wave pop,pop,100
+german hip hop,hip hop,100
+atl hip hop,hip hop,100
+country rock,rock,100
+k-pop boy group,k-pop,100
+french hip hop,hip hop,100
+adult standards,standards,100
+art rock,rock,100
+desi pop,pop,100
+soul,soul,100
+pop urbaine,pop,100
+indie poptimism,pop,100
+alternative r&amp;b,alternative,100
+toronto rap,hip hop,100
+latin alternative,latin,100
+mexican pop,pop,100
+house,house,100
+latin rock,rock,100
+reggaeton colombiano,reggaeton,100
+europop,pop,100
+funk carioca,funk,100
+sertanejo universitario,universitario,100
+j-pop,j-pop,100
+hip pop,pop,100
+indie folk,folk,100
+norteno,norteno,100
+stomp and holler,holler,100
+metal,metal,100
+neo soul,soul,100
+viral pop,pop,100
+latin arena pop,pop,100
+indie rock,rock,100
+filmi,filmi,100
+post-grunge,grunge,100
+sertanejo,sertanejo,100
+spanish pop,pop,100
+new wave,wave,100
+francoton,francoton,100
+art pop,pop,100
+sertanejo pop,pop,100
+reggaeton flow,reggaeton,100
+pop punk,punk,100
+funk,funk,100
+colombian pop,pop,100
+italian pop,pop,100
+blues rock,rock,100
+modern bollywood,bollywood,100
+emo rap,emo,100
+indie soul,soul,100
+quiet storm,storm,100
+conscious hip hop,hip hop,100
+sierreno,sierreno,100
+singer-songwriter,singer-songwriter,100
+slap house,house,100
+lgbtq+ hip hop,hip hop,100
+german pop,pop,100
+pop edm,edm,100
+indietronica,indie,100
+rap francais,hip hop,100
+uk dance,dance,100
+miami hip hop,hip hop,100
+motown,motown,100
+boy band,band,100
+east coast hip hop,hip hop,100
+new romantic,romantic,100
+pop r&amp;b,pop,100
+sad rap,hip hop,100
+disco,disco,100
+dark trap,trap,100
+psychedelic rock,rock,100
+banda,banda,100
+canadian contemporary r&amp;b,r&amp;b,100
+metropopolis,pop,100
+rap metal,metal,100
+progressive house,house,100
+folk,folk,100
+puerto rican pop,pop,100
+modern country rock,rock,100
+sleep,sleep,100
+glam rock,rock,100
+escape room,room,100
+swedish pop,pop,100
+hoerspiel,hoerspiel,100
+roots rock,rock,100
+australian pop,pop,100
+bedroom pop,pop,100
+punk,punk,100
+russian hip hop,hip hop,100
+indie r&amp;b,indie,100
+vapor trap,trap,100
+italian hip hop,hip hop,100
+progressive electro house,house,100
+electronica,electro,100
+ccm,ccm,100
+chill r&amp;b,r&amp;b,100
+mpb,mpb,100
+brill building pop,pop,100
+k-pop girl group,k-pop,100
+argentine rock,rock,100
+metalcore,metalcore,100
+anime,anime,100
+piano rock,rock,100
+heartland rock,rock,100
+christian music,music,100
+alternative dance,alternative,100
+uk hip hop,hip hop,100
+hardcore hip hop,hip hop,100
+indonesian pop,pop,100
+trap argentino,trap,100
+australian hip hop,hip hop,100
+alternative hip hop,hip hop,100
+corridos tumbados,tumbados,100
+talent show,show,100
+turkish pop,pop,100
+new french touch,touch,100
+west coast rap,hip hop,100
+worship,worship,100
+brooklyn drill,drill,100
+synthpop,pop,100
+italian adult pop,pop,100
+vocal jazz,jazz,100
+pagode,pagode,100
+big room,room,100
+otacore,otacore,100
+rap rock,rock,100
+social media pop,pop,100
+lo-fi beats,beats,100
+hollywood,hollywood,100
+dance rock,rock,100
+lounge,lounge,100
+yacht rock,rock,100
+urbano espanol,espanol,100
+mexican hip hop,hip hop,100
+french pop,pop,100
+sad lo-fi,lo-fi,100
+turkish trap pop,trap,100
+detroit hip hop,hip hop,100
+soundtrack,soundtrack,100
+new americana,americana,100
+pop nacional,pop,100
+folk-pop,k-pop,100
+sufi,sufi,100
+cali rap,hip hop,100
+polish hip hop,hip hop,100
+classical,classical,100
+world worship,worship,100
+dirty south rap,hip hop,100
+country pop,pop,100
+christian alternative rock,rock,100
+mariachi,mariachi,100
+forro,forro,100
+british invasion,invasion,100
+opm,opm,100
+glam metal,metal,100
+melodic metalcore,metalcore,100
+brazilian rock,rock,100
+j-rock,rock,100
+classic soul,soul,100
+new rave,rave,100
+cantautor,cantautor,100
+brostep,brostep,100
+beatlesque,beatlesque,100
+bolero,bolero,100
+trap queen,trap,100
+garage rock,rock,100
+dutch pop,pop,100
+eurodance,eurodance,100
+argentine hip hop,hip hop,100
+funk metal,metal,100
+rock-and-roll,rock,100
+grupera,grupera,100
+aesthetic rap,hip hop,99
+british soul,soul,100
+j-poprock,j-pop,100
+deep house,house,100
+dutch hip hop,hip hop,100
+new jack swing,swing,100
+viral rap,hip hop,100
+rap conscient,hip hop,100
+electronic trap,electro,100
+vapor soul,soul,100
+indiecoustica,indie,100
+russian pop,pop,100
+bubblegum pop,pop,100
+north carolina hip hop,hip hop,100
+grunge,grunge,100
+melancholia,melancholia,100
+mexican rock,rock,100
+funk ostentacao,funk,100
+emo,emo,100
+nova mpb,mpb,100
+brazilian hip hop,hip hop,100
+acoustic pop,pop,100
+queens hip hop,hip hop,100
+texas country,country,100
+bachata,bachata,100
+trance,trance,100
+dfw rap,hip hop,100
+salsa,salsa,100
+nyc rap,hip hop,100
+girl group,group,100
+german rock,rock,100
+symphonic rock,rock,100
+mandopop,pop,100
+comic,comic,100
+outlaw country,country,100
+country dawn,country,100
+german trap,trap,100
+modern blues rock,rock,100
+dream pop,pop,100
+funk rock,rock,100
+screamo,screamo,100
+show tunes,tunes,100
+meme rap,hip hop,100
+g funk,funk,100
+lilith,lilith,100
+progressive rock,rock,100
+australian dance,dance,100
+chanson,chanson,100
+reggae fusion,reggae,100
+australian rock,rock,100
+new orleans rap,hip hop,100
+turkish hip hop,hip hop,100
+britpop,pop,100
+punjabi pop,pop,100
+trap triste,trap,100
+dream smp,smp,100
+pop soul,pop,100
+kleine hoerspiel,hoerspiel,100
+dominican pop,pop,98
+power metal,power metal,100
+memphis hip hop,hip hop,100
+florida rap,hip hop,100
+rain,rain,100
+indie rock italiano,rock,100
+chillhop,chillhop,100
+anime rock,rock,100
+merseybeat,merseybeat,100
+video game music,music,100
+turkish trap,trap,100
+german dance,dance,100
+russian trap,trap,100
+rockabilly,rock,100
+dutch edm,edm,100
+ohio hip hop,hip hop,100
+polish trap,trap,100
+reggae,reggae,100
+downtempo,downtempo,100
+la indie,indie,100
+french indie pop,pop,100
+lo-fi product,product,100
+easy listening,listening,100
+deep tropical house,house,100
+dutch rap pop,hip hop,100
+bossa nova,nova,100
+candy pop,pop,100
+norwegian pop,pop,100
+chillwave,chillwave,100
+adoracao,adoracao,100
+philly rap,hip hop,100
+deep groove house,house,100
+afropop,pop,100
+bubblegum dance,dance,100
+neo-classical,classical,100
+disco house,house,100
+german techno,techno,100
+freak folk,folk,100
+nueva cancion,cancion,100
+anthem worship,worship,100
+trap brasileiro,trap,100
+gruperas inmortales,inmortales,100
+dancehall,dancehall,100
+compositional ambient,ambient,100
+atl trap,trap,100
+skate punk,punk,100
+perreo,perreo,100
+children's music,music,100
+bass trap,trap,100
+baroque pop,pop,100
+indie anthem-folk,folk,100
+brazilian edm,edm,100
+canadian rock,rock,100
+italian indie pop,pop,100
+plugg,plugg,100
+modern indie pop,pop,100
+industrial metal,metal,100
+barbadian pop,pop,100
+danish pop,pop,100
+trap italiana,trap,100
+japanese teen pop,pop,100
+deep regional mexican,mexican,100
+roots reggae,reggae,100
+rock nacional,rock,100
+trap soul,trap,100
+classic italian pop,pop,100
+nigerian pop,pop,100
+indie garage rock,rock,100
+old school thrash,thrash,100
+neo-psychedelic,neo-psychedelic,100
+cumbia pop,cumbia,100
+southern soul,soul,100
+pittsburgh rap,hip hop,100
+background music,music,100
+gaming edm,edm,100
+sophisti-pop,pop,100
+pixie,pixie,100
+pop venezolano,pop,100
+gauze pop,pop,100
+spanish pop rock,rock,100
+indie pop rap,hip hop,97
+scorecore,scorecore,100
+nz pop,pop,100
+rap latina,hip hop,100
+pop argentino,pop,100
+hip house,house,100
+jazz funk,jazz,100
+funk paulista,funk,100
+latin worship,latin,100
+korean pop,pop,100
+cumbia villera,cumbia,100
+brazilian gospel,gospel,100
+tennessee hip hop,hip hop,100
+latin viral pop,pop,100
+spanish hip hop,hip hop,100
+uk contemporary r&amp;b,r&amp;b,100
+electric blues,blues,100
+samba,samba,100
+redneck,redneck,100
+vapor twitch,twitch,100
+turkish rock,rock,100
+mexican indie,indie,100
+christian rock,rock,100
+thrash metal,thrash metal,100
+instrumental lullaby,lullaby,100
+la pop,pop,100
+houston rap,hip hop,100
+desi hip hop,hip hop,100
+jazz,jazz,100
+rap marseille,hip hop,100
+rock nacional brasileiro,rock,100
+pop flamenco,pop,100
+shimmer pop,pop,100
+grime,grime,100
+southern rock,rock,100
+latin christian,latin,100
+filter house,house,100
+trip hop,hop,100
+nu jazz,jazz,100
+post-disco,post-disco,100
+c-pop,pop,100
+dmv rap,hip hop,100
+future bass,bass,100
+dutch rock,rock,100
+tamil pop,pop,100
+swedish hip hop,hip hop,100
+socal pop punk,punk,100
+partyschlager,partyschlager,100
+post-screamo,screamo,100
+ska argentino,ska,100
+glitchcore,glitchcore,100
+etherpop,pop,100
+industrial rock,rock,100
+lo-fi jazzhop,jazz,100
+rumba,rumba,100
+cancion melodica,melodica,100
+panamanian pop,pop,100
+madchester,madchester,100
+deep german hip hop,hip hop,100
+rap conciencia,hip hop,100
+axe,axe,100
+afrofuturism,afrofuturism,100
+korean r&amp;b,r&amp;b,100
+bachata dominicana,bachata,100
+tejano,tejano,100
+chamber pop,pop,100
+rap calme,hip hop,100
+irish rock,rock,100
+shiver pop,pop,100
+german underground rap,hip hop,100
+focus beats,beats,100
+australian indie,indie,100
+french rock,rock,100
+pagode novo,novo,100
+swedish electropop,electro,100
+complextro,complextro,100
+punk blues,punk,100
+vocal house,house,100
+rap espanol,hip hop,100
+post-punk,punk,100
+sheffield indie,indie,100
+canadian trap,trap,100
+bubblegrunge,grunge,100
+pop emo,emo,100
+r&amp;b en espanol,espanol,100
+cool jazz,jazz,100
+night drive phonk,phonk,100
+double drumming,drumming,100
+german metal,metal,100
+baton rouge rap,hip hop,100
+anime score,score,100
+indonesian indie,indie,100
+polish pop,pop,100
+jam band,band,100
+background piano,piano,100
+swedish trap pop,trap,100
+german drill,drill,100
+meditation,meditation,100
+groove metal,metal,100
+swing,swing,100
+spanish rock,rock,100
+deep new americana,americana,100
+cumbia sonidera,cumbia,100
+taiwan pop,pop,100
+dreamo,dreamo,100
+canadian singer-songwriter,singer-songwriter,100
+wrestling,wrestling,100
+french indietronica,indie,100
+lullaby,lullaby,100
+big beat,beat,100
+japanese r&amp;b,r&amp;b,100
+uk alternative hip hop,hip hop,100
+christian pop,pop,100
+scandipop,pop,100
+ska,ska,100
+norwegian indie,indie,100
+classic canadian rock,rock,100
+movie tunes,tunes,100
+k-rap,hip hop,100
+belgian edm,edm,100
+turkish folk,folk,100
+environmental,environmental,100
+uk alternative pop,pop,100
+country rap,hip hop,100
+bass house,house,100
+pop house,house,100
+bow pop,pop,100
+afro dancehall,dancehall,100
+musica popular colombiana,pop,100
+brooklyn indie,indie,100
+drill,drill,100
+classic swedish pop,pop,100
+trap boricua,trap,100
+electro,electro,100
+cantopop,pop,100
+melbourne bounce international,international,100
+aussietronica,aussietronica,100
+jazz pop,pop,100
+neon pop punk,punk,100
+bedroom soul,soul,100
+classic bollywood,bollywood,100
+schlager,schlager,100
+russian alt pop,pop,100
+jazz fusion,jazz,100
+jazz blues,jazz,100
+alternative country,country,100
+hyperpop,pop,100
+uk drill,drill,100
+traprun,trap,100
+cumbia 420,cumbia,100
+uk metalcore,metalcore,100
+russian rock,rock,100
+arabesk,arabesk,100
+power pop,pop,100
+calming instrumental,instrumental,100
+japanese singer-songwriter,singer-songwriter,100
+kentucky hip hop,hip hop,100
+flamenco urbano,urbano,100
+dutch house,house,100
+shoegaze,shoegaze,100
+electro latino,electro,100
+oklahoma country,country,100
+neo-synthpop,pop,100
+tech house,house,100
+minimal techno,techno,100
+polish alternative rap,hip hop,100
+modern blues,blues,100
+pop reggaeton,reggaeton,100
+brazilian reggae,reggae,100
+eurovision,eurovision,85
+broadway,broadway,100
+lo-fi cover,cover,100
+drum and bass,drum and bass,100
+blues,blues,100
+alternative emo,emo,100
+classic country pop,pop,100
+japanese alternative rock,rock,100
+indie surf,indie,100
+uk post-punk,punk,100
+deep underground hip hop,hip hop,100
+nyc pop,pop,100
+lo-fi chill,chill,100
+vallenato,vallenato,100
+salsa puertorriquena,salsa,100
+industrial,industrial,100
+german alternative rap,hip hop,100
+pinoy rock,rock,100
+modern hard rock,rock,100
+minnesota hip hop,hip hop,100
+london rap,hip hop,100
+funk bh,funk,100
+german indie,indie,100
+moombahton,moombahton,100
+indie jazz,jazz,100
+turkish alt pop,pop,100
+hamburg hip hop,hip hop,100
+contemporary vocal jazz,jazz,100
+reading,reading,100
+rap dominicano,hip hop,100
+new age,age,100
+canadian indie,indie,100
+chilean rock,rock,100
+modern folk rock,rock,100
+protopunk,punk,100
+anti-folk,folk,100
+memphis soul,soul,100
+golden age hip hop,hip hop,100
+azontobeats,azontobeats,100
+finnish dance pop,pop,100
+drill espanol,drill,100
+post-hardcore,post-hardcore,100
+oakland hip hop,hip hop,100
+ninja,ninja,100
+deep euro house,house,100
+celtic rock,rock,100
+world,world,100
+afroswing,afroswing,100
+japanese chillhop,chillhop,100
+indie electropop,electro,100
+pop rock brasileiro,rock,100
+nigerian hip hop,hip hop,100
+irish pop,pop,100
+canadian metal,metal,100
+early music,music,100
+reggae en espanol,reggae,100
+uplifting trance,trance,100
+progressive metal,metal,100
+focus,focus,100
+thai pop,pop,100
+j-pixie,j-pixie,100
+uk funky,funk,100
+acoustic cover,cover,100
+classic j-pop,j-pop,100
+baroque,classical,100
+pop lgbtq+ brasileira,pop,100
+crunk,crunk,100
+nu disco,disco,100
+rawstyle,rawstyle,100
+old school hip hop,hip hop,100
+weirdcore,weirdcore,100
+cumbia chilena,cumbia,100
+modern reggae,reggae,100
+dubstep,dubstep,100
+white noise,noise,100
+smooth jazz,jazz,100
+finnish pop,pop,100
+neo classical metal,metal,100
+irish singer-songwriter,singer-songwriter,100
+oxford indie,indie,100
+pop romantico,pop,100
+czsk hip hop,hip hop,100
+ska punk,punk,100
+soul jazz,jazz,100
+chicago drill,drill,100
+antiviral pop,pop,100
+german cloud rap,hip hop,100
+rap napoletano,hip hop,100
+pacific islands pop,pop,100
+turbo folk,folk,100
+modern alternative pop,pop,100
+funk viral,funk,100
+canadian electronic,electro,100
+arkansas country,country,100
+romanian pop,pop,100
+japanese vgm,vgm,100
+neue deutsche harte,harte,100
+deep turkish pop,pop,100
+turkish jazz,jazz,100
+acid rock,rock,100
+early romantic era,era,100
+australian psych,psych,100
+classic schlager,schlager,100
+soul blues,blues,100
+political hip hop,hip hop,100
+cumbia,cumbia,100
+noise pop,pop,100
+argentine indie,indie,100
+nu-cumbia,cumbia,100
+speedrun,speedrun,100
+progressive bluegrass,country,100
+classical era,classical,100
+gymcore,gymcore,100
+dub,dub,99
+symphonic metal,metal,100
+lo-fi indie,indie,100
+australian electropop,electro,100
+frauenrap,hip hop,100
+swedish gangsta rap,hip hop,100
+r&amp;b brasileiro,brasileiro,100
+coverchill,coverchill,100
+swamp rock,rock,100
+speed metal,metal,100
+reggae rock,reggae,100
+pop rap brasileiro,hip hop,100
+dance-punk,punk,100
+israeli pop,pop,100
+j-rap,hip hop,100
+phonk,phonk,100
+danish hip hop,hip hop,100
+funk pop,pop,100
+death metal,death metal,100
+anthem emo,emo,100
+progressive trance,trance,100
+post-punk argentina,punk,100
+modern salsa,salsa,100
+rome indie,indie,100
+preschool children's music,music,100
+nashville sound,sound,100
+sertanejo tradicional,tradicional,100
+trova,trova,100
+melodic metal,metal,100
+french reggae,reggae,100
+polish alternative,alternative,100
+british blues,blues,100
+late romantic era,era,100
+venezuelan hip hop,hip hop,100
+epicore,epicore,100
+lovers rock,rock,100
+swedish metal,metal,100
+dancefloor dnb,drum and bass,100
+chicano rap,hip hop,100
+stoner rock,rock,100
+swedish idol pop,pop,100
+piseiro,piseiro,100
+hardcore punk,punk,100
+turkish alternative rock,rock,100
+vocaloid,vocaloid,100
+tagalog rap,hip hop,100
+microhouse,house,100
+spanish indie pop,pop,100
+funk consciente,funk,100
+disney,disney,100
+indie triste,indie,100
+hard bop,bop,100
+torch song,song,100
+dangdut,dangdut,100
+dembow,dembow,97
+russian dance,dance,100
+nwobhm,nwobhm,100
+cartoon,cartoon,100
+swedish alternative rock,rock,100
+christian hip hop,hip hop,100
+british singer-songwriter,singer-songwriter,100
+belgian hip hop,hip hop,100
+bebop,bebop,100
+sunshine pop,pop,100
+new jersey rap,hip hop,100
+electra,electra,100
+visual kei,kei,100
+musica de fondo,fondo,100
+classic hardstyle,hardstyle,100
+chill pop,pop,100
+post-romantic era,era,100
+basshall,basshall,100
+celtic,celtic,100
+danspunk,punk,100
+anime lo-fi,lo-fi,100
+trancecore,trance,100
+pagode baiano,baiano,100
+trap mexicano,trap,100
+zolo,zolo,100
+new york drill,drill,100
+supergroup,supergroup,100
+greek pop,pop,100
+birmingham metal,metal,100
+west coast trap,trap,100
+nederpop,pop,100
+melodic dubstep,dubstep,100
+finnish hip hop,hip hop,100
+euphoric hardstyle,hardstyle,100
+suomi rock,rock,95
+v-pop,pop,100
+latin jazz,jazz,100
+modern power pop,pop,100
+k-indie,indie,100
+albanian hip hop,hip hop,100
+canadian punk,punk,99
+hi-nrg,hi-nrg,100
+jawaiian,jawaiian,100
+kindermusik,kindermusik,100
+south carolina hip hop,hip hop,100
+afro r&amp;b,r&amp;b,100
+belgian pop,pop,100
+australian alternative rock,rock,98
+musica para ninos,ninos,100
+rebel blues,blues,100
+gothic metal,metal,100
+experimental pop,pop,100
+swedish trap,trap,100
+dark clubbing,clubbing,100
+modern dream pop,pop,100
+operatic pop,pop,100
+organic house,house,100
+indie punk,punk,100
+classify,classify,100
+scottish rock,rock,100
+melodic hardcore,hardcore,100
+alabama rap,hip hop,100
+nouvelle chanson francaise,francaise,100
+swedish synthpop,pop,100
+detroit trap,trap,100
+champeta,champeta,100
+pinoy hip hop,hip hop,100
+latin talent show,latin,100
+south african pop,pop,100
+asmr,asmr,100
+japanese soundtrack,soundtrack,100
+rap belge,hip hop,100
+christian indie,indie,100
+canadian country,country,100
+vancouver indie,indie,100
+spanish new wave,wave,100
+azonto,azonto,100
+cuarteto,cuarteto,100
+hawaiian hip hop,hip hop,100
+melodic death metal,death metal,100
+ambient worship,ambient,100
+indian instrumental,instrumental,89
+chamber psych,psych,100
+shamanic,shamanic,100
+iskelma,iskelma,100
+r&amp;b italiano,italiano,100
+piano cover,cover,100
+anadolu rock,rock,100
+arab pop,pop,100
+diva house,house,97
+german soundtrack,soundtrack,100
+cumbia ranchera,cumbia,100
+classic russian rock,rock,100
+doo-wop,doo-wop,100
+folklore argentino,folk,100
+rkt,rkt,100
+ambient,ambient,100
+deathcore,deathcore,100
+canadian contemporary country,country,100
+german baroque,classical,100
+turntablism,turntablism,100
+rock cristiano,rock,100
+french synthpop,pop,100
+ska mexicano,ska,100
+detroit rock,rock,100
+argentine reggae,reggae,100
+gospel,gospel,100
+st louis rap,hip hop,100
+uk americana,americana,100
+classic mandopop,pop,100
+pub rock,rock,100
+italo dance,dance,100
+turkish singer-songwriter,singer-songwriter,100
+experimental,experimental,100
+dutch trance,trance,100
+indie game soundtrack,indie,100
+tecnobanda,tecnobanda,100
+milan indie,indie,100
+hard rock brasileiro,rock,100
+background jazz,jazz,100
+chillstep,chillstep,100
+northern soul,soul,100
+jazz trumpet,jazz,100
+folk brasileiro,folk,100
+boom bap espanol,espanol,100
+philly indie,indie,100
+forro de favela,favela,100
+dinner jazz,jazz,100
+hands up,up,100
+intelligent dance music,music,100
+hyphy,hyphy,100
+comic metal,metal,100
+chinese indie,indie,100
+cubaton,cubaton,100
+russian dance pop,pop,100
+trap carioca,trap,100
+jazz rap,hip hop,100
+big band,band,100
+argentine telepop,pop,100
+future house,house,100
+british soundtrack,soundtrack,100
+salsa colombiana,salsa,100
+bossa nova cover,cover,100
+japanese emo,emo,100
+chicago indie,indie,100
+norteno-sax,norteno-sax,100
+swedish indie pop,pop,100
+roots worship,worship,100
+boston rock,rock,100
+stoner metal,metal,100
+rhythm and blues,blues,100
+vegas indie,indie,100
+classic soundtrack,soundtrack,100
+tekk,tekk,100
+water,water,100
+classic opm,opm,100
+deep ccm,ccm,100
+boston hip hop,hip hop,100
+roots americana,americana,100
+musica infantil,infantil,100
+carnaval,carnaval,100
+melbourne bounce,bounce,100
+philly soul,soul,100
+levenslied,levenslied,100
+minneapolis sound,sound,100
+russian drill,drill,100
+mainland chinese pop,pop,100
+albanian pop,pop,100
+velha guarda,guarda,100
+chilean indie,indie,100
+seattle hip hop,hip hop,100
+manguebeat,manguebeat,100
+tropicalia,tropicalia,100
+indonesian jazz,jazz,100
+synthwave,synthwave,100
+english indie rock,rock,78
+canadian pop punk,punk,99
+contemporary jazz,jazz,100
+pop peruano,pop,100
+drill francais,drill,100
+float house,house,100
+modern southern rock,rock,100
+old school rap francais,hip hop,100
+ambient pop,ambient,100
+fnf,fnf,100
+psychedelic hip hop,hip hop,100
+classic uk pop,pop,100
+german romanticism,romanticism,100
+rock alternativo brasileiro,rock,100
+rock drums,rock,100
+malaysian pop,pop,100
+bmore,bmore,100
+sacramento indie,indie,100
+rock urbano mexicano,rock,100
+russelater,russelater,100
+jazz boom bap,jazz,100
+christian relaxative,relaxative,100
+gothic symphonic metal,metal,100
+trap chileno,trap,100
+hardcore techno,techno,100
+kentucky roots,roots,100
+cancion infantil latinoamericana,latin,100
+russian drain,drain,100
+sound,sound,100
+neo-singer-songwriter,neo-singer-songwriter,100
+indie hip hop,hip hop,100
+russian gangster rap,hip hop,100
+jazz saxophone,jazz,100
+j-division,j-division,100
+rock steady,rock,100
+ukrainian pop,pop,100
+alternative pop rock,rock,100
+stomp pop,pop,100
+instrumental rock,rock,100
+brighton indie,indie,100
+rap chileno,hip hop,100
+stride,stride,100
+boom bap,bap,100
+chicago bop,bop,100
+russian emo rap,emo,100
+finnish metal,metal,100
+g-house,house,76
+laiko,laiko,100
+rock gospel brasileiro,rock,100
+flamenco,flamenco,100
+surf punk,punk,100
+christian trap,trap,100
+afrofuturismo brasileiro,brasileiro,100
+portuguese pop,pop,100
+korean ost,ost,100
+funk mandelao,funk,100
+jazz piano,jazz,100
+new jersey indie,indie,100
+british folk,folk,100
+new age piano,piano,100
+small room,room,100
+cumbia peruana,cumbia,100
+sleaze rock,rock,100
+future garage,garage,100
+czech rock,rock,100
+rap cristiano,hip hop,100
+pop electronico,electro,100
+taiwan singer-songwriter,singer-songwriter,100
+classic pakistani pop,pop,100
+happy hardcore,hardcore,100
+rap df,hip hop,100
+aussie drill,drill,99
+rai,rai,100
+pet calming,calming,100
+traditional blues,blues,100
+lo-fi,lo-fi,100
+red dirt,dirt,100
+liedermacher,liedermacher,100
+djent,djent,100
+australian reggae fusion,reggae,100
+australian country,country,100
+ambient folk,ambient,100
+german hard rock,rock,100
+latin metal,metal,100
+middle earth,earth,100
+australian indie folk,folk,100
+rif,rif,100
+indian indie,indie,100
+mexican rock-and-roll,rock,100
+swedish tropical house,house,100
+italian disco,disco,100
+electropowerpop,electro,100
+pinoy indie,indie,100
+japanese electropop,electro,100
+karadeniz turkuleri,turkuleri,100
+lagu jawa,jawa,100
+j-acoustic,j-acoustic,100
+singaporean pop,pop,100
+progressive post-hardcore,post-hardcore,100
+garage psych,psych,100
+electro swing,electro,100
+eau claire indie,indie,100
+trap baiano,trap,100
+slayer,slayer,97
+edmonton indie,edm,100
+russian punk,punk,100
+women's music,music,100
+variete francaise,francaise,100
+oakland indie,indie,100
+post-rock,rock,100
+synth funk,funk,100
+greek trap,trap,100
+electronic rock,electro,100
+colombian hip hop,hip hop,100
+swedish pop rap,hip hop,100
+belgian dance,dance,100
+rap mineiro,hip hop,100
+italian underground hip hop,hip hop,99
+hopebeat,hopebeat,100
+musica catalana,catalana,100
+rap cearense,hip hop,100
+banda caliente,caliente,100
+banda jalisciense,jalisciense,100
+swedish power metal,power metal,100
+canzone d'autore,d'autore,100
+reggaeton chileno,reggaeton,100
+jazztronica,jazz,100
+medieval folk,folk,100
+british indie rock,rock,100
+teen pop,pop,100
+bolero mexicano,mexicano,100
+austindie,indie,100
+pop virale italiano,pop,100
+latin afrobeat,latin,100
+classic russian pop,pop,86
+baltimore indie,indie,100
+j-pop boy group,j-pop,100
+livetronica,livetronica,100
+nerdcore brasileiro,brasileiro,100
+german house,house,100
+duranguense,duranguense,100
+cyberpunk,punk,100
+future funk,funk,100
+rhode island rap,hip hop,90
+salsa international,salsa,100
+organic electronic,electro,100
+asian american hip hop,hip hop,100
+impressionism,impressionism,100
+cosmic american,american,100
+turkce drill,drill,100
+spanish punk,punk,100
+el paso indie,indie,100
+turkish alternative,alternative,100
+groove room,room,100
+kazakh pop,pop,100
+art punk,punk,100
+german reggae,reggae,100
+bronx hip hop,hip hop,100
+classic girl group,group,100
+kazakh hip hop,hip hop,100
+desi trap,trap,100
+athens indie,indie,100
+classic danish pop,pop,100
+javanese dangdut,dangdut,100
+persian pop,pop,100
+solo wave,wave,100
+trap venezolano,trap,100
+jazz cover,jazz,100
+lesen,lesen,98
+swedish drill,drill,100
+folk punk,punk,100
+canadian latin,latin,100
+kirtan,kirtan,100
+german punk,punk,100
+sky room,room,100
+swedish singer-songwriter,singer-songwriter,90
+comedy,comedy,100
+classic cantopop,pop,100
+chicha,chicha,100
+dutch indie,indie,100
+medieval rock,rock,100
+afro soul,soul,100
+experimental hip hop,hip hop,100
+anime rap,hip hop,98
+arabic hip hop,hip hop,100
+ecuadorian pop,pop,100
+indie quebecois,indie,100
+rap underground espanol,hip hop,100
+tollywood,tollywood,100
+psychedelic soul,soul,100
+norwegian pop rap,hip hop,100
+german trance,trance,100
+wonky,wonky,100
+barnmusik,barnmusik,100
+classic indo pop,pop,100
+hindi hip hop,hip hop,100
+rave funk,funk,100
+trap funk,trap,100
+nu-metalcore,metalcore,99
+garage rock revival,rock,100
+afrobeat,afrobeat,100
+banda carnavalera,carnavalera,100
+disney horspiele,horspiele,100
+danish electronic,electro,100
+jazz guitar,jazz,100
+hamburg electronic,electro,100
+j-idol,j-idol,100
+indian singer-songwriter,singer-songwriter,74
+wave,wave,100
+glee club,club,100
+anime latino,latin,100
+dangdut koplo,koplo,100
+dansband,dansband,100
+danish rock,rock,100
+early modern classical,classical,100
+russian ccm,ccm,100
+classic norwegian pop,pop,100
+liquid funk,funk,100
+musica triste brasileira,brasileira,99
+j-metal,metal,100
+chicago punk,punk,100
+j-pop girl group,j-pop,100
+spanish metal,metal,100
+old school dancehall,dancehall,100
+central asian hip hop,hip hop,100
+russian post-punk,punk,99
+ottawa rap,hip hop,100
+drill brasileiro,drill,100
+mississippi hip hop,hip hop,100
+south african alternative,alternative,100
+breakbeat,breakbeat,100
+rap inde,hip hop,100
+neoclassical darkwave,classical,100
+rap underground mexicano,hip hop,100
+musica tradicional cubana,cubana,100
+bc underground hip hop,hip hop,100
+a cappella,cappella,100
+minimal tech house,house,100
+tamil hip hop,hip hop,100
+electro-pop francais,electro,100
+indonesian folk pop,pop,100
+turkish deep house,house,100
+harlem renaissance,renaissance,100
+fourth world,world,100
+portland hip hop,hip hop,100
+russian rave,rave,100
+uptempo hardcore,hardcore,100
+nashville singer-songwriter,singer-songwriter,100
+uk doom metal,doom metal,100
+deep disco house,house,100
+rock uruguayo,rock,100
+cumbia santafesina,cumbia,100
+australian garage punk,punk,100
+australian house,house,100
+bluegrass,country,100
+nu gaze,gaze,100
+rap maroc,hip hop,100
+greek hip hop,hip hop,100
+icelandic indie,indie,100
+kentucky indie,indie,100
+uk dnb,drum and bass,100
+welsh rock,rock,100
+uk dancehall,dancehall,100
+polish classical,classical,100
+chillsynth,chillsynth,100
+czech hip hop,hip hop,100
+hip hop tuga,hip hop,100
+folktronica,folk,100
+rap baiano,hip hop,100
+soca,soca,100
+idol rock,rock,100
+czech pop,pop,100
+brega funk,funk,100
+uk reggae,reggae,100
+ye ye,ye,100
+ethnotronica,ethnotronica,100
+moroccan pop,pop,100
+german power metal,power metal,100
+vallenato moderno,moderno,100
+pakistani hip hop,hip hop,100
+instrumental funk,funk,100
+classic indonesian rock,rock,100
+german singer-songwriter,singer-songwriter,100
+melodic thrash,thrash,100
+taiwan indie,indie,100
+canadian electropop,electro,100
+trap dominicano,trap,100
+chill guitar,guitar,100
+liverpool indie,indie,100
+japanese instrumental,instrumental,100
+electronica argentina,electro,100
+punjabi hip hop,hip hop,100
+slowcore,slowcore,100
+ghazal,ghazal,100
+brazilian ccm,ccm,100
+instrumental grime,grime,100
+retro soul,soul,100
+slowed and reverb,reverb,100
+russian electronic,electro,100
+uk house,house,100
+rap algerien,hip hop,100
+channel pop,pop,100
+bhangra,bhangra,100
+mollywood,mollywood,100
+brazilian indie,indie,100
+gaming dubstep,dubstep,100
+nz reggae,reggae,100
+norwegian rock,rock,100
+peruvian rock,rock,87
+trap pesado,trap,100
+chicago soul,soul,100
+alternative pop,pop,100
+vapor pop,pop,100
+swedish melodeath,melodeath,100
+south african rock,rock,100
+indonesian viral pop,pop,100
+reggaeton mexicano,reggaeton,100
+drone,drone,100
+rock brasiliense,rock,100
+virginia hip hop,hip hop,100
+german pop rock,rock,100
+irish folk,folk,100
+harlem hip hop,hip hop,100
+japanese classical,classical,100
+christian metal,metal,100
+russian grime,grime,100
+austropop,pop,100
+indonesian r&amp;b,r&amp;b,100
+indonesian rock,rock,100
+finnish power metal,power metal,100
+shibuya-kei,shibuya-kei,100
+pinoy reggae,reggae,100
+comedy rap,hip hop,100
+egyptian pop,pop,100
+transpop,pop,79
+icelandic pop,pop,100
+danish metal,metal,100
+psychedelic trance,trance,100
+healing,healing,100
+seattle indie,indie,100
+pop violin,pop,100
+kosovan pop,pop,97
+binaural,binaural,96
+swiss indie,indie,100
+pinoy r&amp;b,r&amp;b,100
+thai indie pop,pop,100
+belgian rock,rock,100
+italian pop rock,rock,100
+cueca chilena,chilena,100
+japanese soul,soul,100
+discofox,discofox,98
+brazilian jazz,jazz,100
+pakistani pop,pop,100
+tex-mex,tex-mex,100
+rap canario,hip hop,100
+colombian rock,rock,100
+icelandic rock,rock,100
+grave wave,wave,100
+australian trap,trap,100
+chutney,chutney,100
+chicago hardcore,hardcore,100
+antideutsche,antideutsche,100
+australian metalcore,metalcore,100
+israeli mediterranean,mediterranean,100
+palm desert scene,scene,100
+kawaii future bass,bass,100
+haryanvi pop,pop,100
+merengue,merengue,100
+deep pop edm,edm,100
+volksmusik,volksmusik,100
+bubble trance,trance,100
+rock gaucho,rock,100
+australian children's music,music,100
+zhongguo feng,feng,100
+funk das antigas,funk,100
+scottish singer-songwriter,singer-songwriter,100
+folk metal,metal,100
+funk 150 bpm,funk,100
+australian talent show,show,100
+swedish soul,soul,100
+french soundtrack,soundtrack,100
+progressive metalcore,metalcore,99
+australian alternative pop,pop,100
+canzone napoletana,napoletana,100
+german alternative rock,rock,100
+salsa peruana,salsa,100
+turkish psych,psych,100
+rap tunisien,hip hop,100
+funky house,house,100
+violao,violao,100
+boogaloo,boogaloo,100
+anime piano,piano,100
+contemporary post-bop,post-bop,100
+indian edm,edm,92
+shush,shush,100
+swedish death metal,death metal,100
+fotbollslatar,fotbollslatar,100
+gujarati pop,pop,100
+black metal,black metal,100
+music box,box,100
+singaporean mandopop,pop,100
+indonesian folk,folk,100
+classic city pop,pop,100
+scream rap,hip hop,100
+alternative americana,alternative,100
+morelos indie,indie,100
+italian baroque,classical,100
+turkish edm,edm,100
+nursery,nursery,100
+hardstyle,hardstyle,100
+gothenburg indie,indie,100
+scottish new wave,wave,100
+samba moderno,moderno,100
+israeli rock,rock,100
+russian indie,indie,100
+chinese viral pop,pop,99
+classic israeli pop,pop,100
+samba de roda,roda,100
+quebec indie,indie,100
+r&amp;b argentino,argentino,100
+nordic house,house,71
+funky tech house,house,100
+kiwi rock,rock,100
+russian romanticism,romanticism,100
+space rock,rock,100
+folk rock italiano,rock,100
+okinawan pop,pop,100
+chill out,out,100
+kavkaz,kavkaz,99
+rave,rave,100
+jovem guarda,guarda,100
+rock kapak,rock,94
+swedish indie rock,rock,100
+belarusian hip hop,hip hop,100
+chihuahua indie,indie,100
+minecraft,minecraft,100
+nashville hip hop,hip hop,100
+hungarian pop,pop,100
+world fusion,fusion,100
+russian edm,edm,100
+czech folk,folk,100
+italian alternative,alternative,100
+canadian ccm,ccm,100
+ska revival,ska,100
+danish pop rock,rock,99
+upstate ny rap,hip hop,100
+german r&amp;b,r&amp;b,100
+guadalajara indie,indie,100
+cumbia paraguaya,cumbia,100
+vaporwave,vaporwave,100
+musica gaucha tradicionalista,tradicionalista,100
+christlicher rap,hip hop,100
+japanese punk rock,punk,100
+kabarett,kabarett,100
+bass music,music,100
+opera metal,metal,100
+japanese trap,trap,100
+mexican classic rock,rock,100
+lithuanian electronic,electro,100
+dark wave,wave,100
+canadian soundtrack,soundtrack,99
+veracruz indie,indie,100
+new orleans jazz,jazz,100
+glitch hop,hop,100
+noise rock,rock,100
+salsa venezolana,salsa,100
+jump up,up,100
+swedish indie folk,folk,100
+scottish indie,indie,100
+pinoy trap,trap,79
+bergen indie,indie,100
+cumbia sonorense,cumbia,100
+pop folk,pop,100
+hindi indie,indie,100
+rock mineiro,rock,100
+indonesian worship,worship,100
+future rock,rock,100
+washington indie,indie,100
+turkce slow sarkilar,sarkilar,100
+kansas city hip hop,hip hop,100
+swedish jazz,jazz,100
+ectofolk,folk,100
+swedish hard rock,rock,100
+pianissimo,pianissimo,100
+birmingham grime,grime,100
+umbanda,umbanda,100
+reggaeton cristiano,reggaeton,100
+bay area indie,indie,100
+shanty,shanty,100
+french shoegaze,shoegaze,100
+neo r&amp;b,r&amp;b,100
+musica andina,andina,100
+manchester hip hop,hip hop,81
+austrian pop,pop,100
+boom bap brasileiro,brasileiro,100
+british alternative rock,rock,100
+horror punk,punk,100
+lebanese pop,pop,100
+progressive groove metal,metal,100
+indonesian hip hop,hip hop,100
+rune folk,folk,100
+texas pop punk,punk,100
+ann arbor indie,indie,100
+indie catala,indie,100
+midwest emo,emo,100
+smooth saxophone,saxophone,100
+scam rap,hip hop,100
+indonesian pop punk,punk,100
+pop quebecois,pop,100
+south african house,house,100
+dutch cabaret,cabaret,100
+celtic metal,metal,100
+brutal death metal,death metal,100
+mariachi cristiano,cristiano,100
+punk urbano,punk,100
+city pop,pop,100
+korean instrumental,instrumental,100
+native american,american,100
+chilena,chilena,76
+indonesian lo-fi pop,pop,100
+early us punk,punk,100
+ethereal wave,wave,100
+classic turkish pop,pop,100
+classic garage rock,rock,100
+argentine alternative rock,rock,100
+glitch,glitch,100
+lithuanian edm,edm,100
+underground rap,hip hop,100
+russian metal,metal,100
+polish rock,rock,100
+world meditation,meditation,100
+tamaulipas rap,hip hop,100
+sacramento hip hop,hip hop,100
+barnsagor,barnsagor,100
+singaporean singer-songwriter,singer-songwriter,100
+russian punk rock,punk,100
+alte,alternative,100
+rock andaluz,rock,93
+idol,idol,100
+nottingham indie,indie,100
+post-minimalism,post-minimalism,100
+indonesian alternative rock,rock,100
+celtic punk,punk,100
+acoustic rock,rock,100
+techno,techno,100
+nova musica pernambucana,pernambucana,100
+scandinavian r&amp;b,r&amp;b,100
+kollywood,kollywood,100
+destroy techno,techno,100
+riot grrrl,grrrl,100
+filthstep,filthstep,100
+classic house,house,100
+christian metalcore,metalcore,100
+mexican pop punk,punk,100
+jangle pop,pop,100
+zouk riddim,riddim,100
+norwegian hip hop,hip hop,100
+kayokyoku,kayokyoku,100
+texas blues,blues,100
+musica costena,costena,100
+melanesian pop,pop,100
+pop chileno,pop,100
+viking metal,metal,77
+atmosphere,atmosphere,100
+canadian americana,americana,100
+indie rock mexicano,rock,100
+nintendocore,nintendocore,100
+psychedelic doom,doom,100
+abstract hip hop,hip hop,100
+brazilian bass,bass,83
+electro jazz,electro,100
+romanian house,house,100
+banjo,banjo,100
+ska chileno,ska,100
+final fantasy,fantasy,100
+hard bass,bass,100
+hip hop quebecois,hip hop,100
+cumbia del sureste,cumbia,100
+gothic rock,rock,100
+gothenburg metal,metal,100
+brazilian punk,punk,100
+welsh metal,metal,100
+taiwan hip hop,hip hop,100
+tribal house,house,100
+hungarian rock,rock,100
+saskatchewan indie,ska,100
+batidao romantico,romantico,100
+easycore,easycore,100
+steampunk,punk,100
+acoustic chill,chill,100
+north carolina roots,roots,100
+free jazz,jazz,100
+belgian indie,indie,100
+chill beats,beats,100
+doom metal,doom metal,100
+piano blues,blues,100
+puerto rican rock,rock,100
+lo-fi emo,emo,100
+musica aragonesa,aragonesa,100
+lo-fi vgm,vgm,100
+chamame,chamame,97
+tropical alternativo,alternative,100
+swiss pop,pop,100
+battle rap,hip hop,100
+oyun havasi,havasi,100
+sound team,team,100
+parody,parody,100
+thai indie rock,rock,100
+french romanticism,romanticism,100
+lds youth,youth,100
+darksynth,darksynth,100
+vietnamese hip hop,hip hop,100
+classic colombian pop,pop,97
+children's folk,folk,100
+bergamo indie,indie,100
+viking folk,folk,100
+chill lounge,lounge,100
+dark techno,techno,100
+rap lyonnais,hip hop,100
+sludge metal,metal,100
+karadeniz pop,pop,99
+danseband,danseband,100
+classic iskelma,iskelma,100
+bboy,bboy,100
+gospel r&amp;b,gospel,100
+classic polish pop,pop,100
+italian romanticism,romanticism,100
+yugoslav rock,rock,100
+manele,manele,100
+experimental rock,rock,100
+magyar alternative,alternative,100
+ukg revival,revival,100
+canadian folk,folk,100
+dixieland,dixieland,100
+indiana hip hop,hip hop,100
+buffalo hip hop,hip hop,100
+afro house,house,100
+russian underground rap,hip hop,100
+auckland indie,indie,100
+japanese pop rap,hip hop,100
+australian underground hip hop,hip hop,100
+bassline,bassline,100
+jazz trio,jazz,100
+afghan pop,pop,100
+chinese idol pop,pop,99
+deep southern trap,trap,100
+png pop,pop,100
+texas metal,metal,100
+chicago blues,blues,100
+bitpop,pop,100
+northern irish indie,indie,100
+italian reggae,reggae,100
+ghanaian hip hop,hip hop,100
+ecm-style jazz,jazz,100
+disco polo,polo,100
+samba-rock,rock,100
+swedish country,country,100
+ebm,ebm,100
+volkspop,pop,100
+minimalism,minimalism,100
+texas latin rap,hip hop,100
+icelandic classical,classical,100
+russian chanson,chanson,100
+stomp and flutter,flutter,100
+french jazz,jazz,100
+classic finnish rock,rock,100
+narodna muzika,muzika,100
+melodic techno,techno,100
+romantico,romantico,100
+spanish folk metal,metal,99
+deep latin christian,latin,100
+uk pop punk,punk,100
+italian opera,classical,100
+electroclash,electro,100
+guaracha,guaracha,100
+greek drill,drill,100
+east coast reggae,reggae,100
+classic belgian pop,pop,100
+cologne hip hop,hip hop,100
+deutschrock,rock,100
+freestyle,freestyle,100
+chiptune,chiptune,100
+nightrun,nightrun,100
+gabba,gabba,100
+kurdish pop,pop,100
+khaliji,khaliji,100
+modern ska punk,punk,100
+electro-industrial,electro,100
+oc rap,hip hop,100
+technical death metal,death metal,100
+chicago house,house,100
+german metalcore,metalcore,100
+louvor,louvor,100
+progressive deathcore,deathcore,100
+thai rock,rock,100
+classic malaysian pop,pop,100
+kizomba,kizomba,100
+drill italiana,drill,100
+dutch metal,metal,100
+swancore,swancore,100
+australian r&amp;b,r&amp;b,100
+nashville indie,indie,100
+new comedy,comedy,100
+classic finnish pop,pop,100
+chinese r&amp;b,r&amp;b,100
+rap baixada fluminense,hip hop,100
+classic arab pop,pop,100
+vintage italian soundtrack,soundtrack,100
+progressive psytrance,trance,100
+lo-fi house,house,100
+dark disco,disco,100
+mizrahi,mizrahi,100
+ukrainian rock,rock,100
+nederlandse hardstyle,hardstyle,100
+soulful house,house,100
+belly dance,dance,100
+indian lo-fi,lo-fi,100
+orgcore,orgcore,100
+reggae tuga,reggae,100
+punk 'n' roll,punk,100
+mambo,mambo,100
+emo rap italiano,emo,100
+tecnobrega,tecnobrega,99
+uk garage,garage,100
+samba-jazz,jazz,100
+dansktop,dansktop,100
+naija worship,worship,100
+frenchcore,frenchcore,83
+samba reggae,reggae,100
+country gospel,country,100
+asbury park indie,indie,100
+trap antillais,trap,100
+neue deutsche welle,welle,100
+jewish pop,pop,100
+dark post-punk,punk,100
+japanese vtuber,vtuber,100
+modern funk,funk,100
+russian folk rock,rock,100
+arab trap,trap,100
+latin classical,classical,100
+spanish modern rock,rock,100
+tagalog worship,worship,100
+mexican edm,edm,100
+rock independant francais,rock,100
+new jersey hardcore,hardcore,100
+minneapolis indie,indie,100
+turkce kadin rap,hip hop,100
+acoustic punk,punk,100
+cowboy western,western,100
+hawaiian,hawaiian,100
+metallic hardcore,metal,100
+circuit,circuit,100
+swedish americana,americana,100
+acoustic blues,blues,100
+nordic soundtrack,soundtrack,100
+uzbek pop,pop,100
+swedish reggae,reggae,100
+jungle,jungle,100
+indie viet,indie,100
+contemporary gospel,gospel,100
+japanese pop punk,punk,100
+egyptian hip hop,hip hop,100
+swedish melodic rock,rock,100
+latintronica,latin,100
+italian soundtrack,soundtrack,100
+swedish eurodance,eurodance,100
+popping,pop,100
+trance brasileiro,trance,78
+polish indie,indie,100
+partido alto,alternative,100
+portland indie,indie,100
+australian singer-songwriter,singer-songwriter,100
+musica para criancas,criancas,100
+gbvfi,gbvfi,100
+swedish dancehall,dancehall,100
+hard alternative,alternative,100
+bakersfield sound,sound,100
+japanese alternative pop,pop,100
+american folk revival,folk,100
+barnemusikk,barnemusikk,100
+ghanaian pop,pop,100
+italian lounge,lounge,100
+hurdy-gurdy,hurdy-gurdy,100
+bandinhas,bandinhas,100
+melodic power metal,power metal,100
+irish hip hop,hip hop,100
+japanese old school hip hop,hip hop,100
+irish country,country,100
+theme,theme,100
+post-doom metal,doom metal,100
+bulgarian pop,pop,100
+russian alternative rock,rock,100
+argentine punk,punk,100
+balkan hip hop,hip hop,100
+norwegian country,country,100
+japanese jazz fusion,jazz,100
+chinese singer-songwriter,singer-songwriter,100
+denpa-kei,denpa-kei,100
+new weird america,america,100
+experimental r&amp;b,r&amp;b,100
+country blues,blues,100
+deconstructed club,club,100
+turkish instrumental,instrumental,98
+idol kayo,kayo,100
+classic thai pop,pop,100
+ambeat,ambeat,100
+hardcore,hardcore,100
+muziek voor kinderen,kinderen,100
+groove gospel,gospel,100
+viral trap,trap,100
+mathcore,mathcore,100
+monterrey indie,indie,100
+thai hip hop,hip hop,100
+latinx alternative,latin,100
+arab electronic,electro,100
+amapiano,amapiano,100
+folklore chileno,folk,100
+leicester indie,indie,100
+louisiana blues,blues,100
+indonesian city pop,pop,100
+laboratorio,laboratorio,100
+alabama indie,indie,100
+malaysian mandopop,pop,100
+popwave,pop,100
+croatian pop,pop,100
+classic peruvian pop,pop,100
+cello,cello,100
+acoustic opm,opm,100
+latin funk,funk,100
+folclore salteno,alternative,100
+indie rockism,rock,100
+classic dubstep,dubstep,100
+surf music,music,91
+progressive jazz fusion,jazz,84
+german viral rap,hip hop,100
+world devotional,devotional,100
+afrikaans,afrikaans,100
+pop nacional antigas,pop,100
+belarusian indie,indie,100
+estonian hip hop,hip hop,100
+venezuelan rock,rock,100
+toronto indie,indie,100
+korean city pop,pop,100
+samba paulista,paulista,100
+neomelodici,neomelodici,74
+seiyu,seiyu,100
+russian viral rap,hip hop,97
+rap boricua,hip hop,100
+oldschool deutschrap,hip hop,100
+dutch drill,drill,100
+colombian indie,indie,100
+carnaval cadiz,cadiz,100
+latin viral rap,hip hop,100
+norwegian metal,metal,98
+north east england indie,indie,100
+glam punk,punk,100
+reggae cover,reggae,100
+concepcion indie,indie,100
+old-time,old-time,100
+entehno,entehno,100
+brain waves,waves,100
+mande pop,pop,100
+romanian trap,trap,100
+argentine heavy metal,metal,98
+modern jazz piano,jazz,100
+high-tech minimal,minimal,100
+papuri,papuri,100
+neo-progressive,neo-progressive,100
+zouk,zouk,100
+rock baiano,rock,100
+vocal harmony group,group,100
+canadian old school hip hop,hip hop,100
+dakke dak,dak,100
+indie liguria,indie,100
+peruvian hip hop,hip hop,100
+gospel antigas,gospel,100
+fingerstyle,fingerstyle,100
+classical tenor,classical,100
+bouncy house,house,100
+scottish indie rock,rock,100
+symphonic deathcore,deathcore,100
+brega romantico,romantico,100
+lo-fi brasileiro,brasileiro,100
+flamenco fusion,fusion,100
+huzunlu sarkilar,sarkilar,100
+finnish alternative rock,rock,100
+japanese post-hardcore,post-hardcore,100
+nz hip hop,hip hop,100
+straight edge,edge,100
+shred,shred,100
+south african hip hop,hip hop,100
+musique pour enfants,enfants,100
+german indie folk,folk,100
+neoclassicism,neoclassicism,100
+digital hardcore,hardcore,99
+rock catala,rock,100
+swiss hip hop,hip hop,100
+instrumental post-rock,rock,100
+synthesizer,synthesizer,98
+nightcore,nightcore,100
+dangdut remix,remix,100
+german oi,oi,100
+deep tech house,house,99
+italian tenor,tenor,100
+brit funk,funk,93
+finnish melodeath,melodeath,100
+outsider house,house,100
+malaysian indie,indie,100
+belo horizonte indie,indie,100
+french metal,metal,93
+rap nacional antigo,hip hop,100
+strut,strut,100
+fado,fado,100
+pittsburgh indie,indie,100
+new jersey underground rap,hip hop,100
+south african pop dance,pop,100
+austin americana,americana,100
+industrial hip hop,hip hop,100
+dong-yo,dong-yo,100
+new jersey punk,punk,100
+russian viral pop,pop,98
+lithuanian pop,pop,100
+newcastle nsw indie,indie,93
+boston indie,indie,100
+avant-garde jazz,jazz,100
+uk contemporary jazz,jazz,100
+vgm remix,remix,100
+emo mexicano,emo,100
+rap catala,hip hop,100
+perth indie,indie,77
+honky tonk,tonk,100
+west coast reggae,reggae,100
+icelandic experimental,experimental,100
+kawaii metal,metal,100
+spanish noise pop,pop,100
+reggae cristao,reggae,100
+contemporary classical,classical,100
+latincore,latin,100
+sholawat,sholawat,97
+australian indie rock,rock,100
+dark rock,rock,100
+psychedelic pop,pop,100
+flute rock,rock,88
+alberta country,country,100
+israeli singer-songwriter,singer-songwriter,100
+punk rock mexicano,punk,100
+brazilian soul,soul,100
+rap antillais,hip hop,100
+brazilian house,house,100
+riddim,riddim,100
+kindie rock,rock,100
+diy emo,emo,100
+finnish heavy metal,metal,100
+quran,quran,100
+birmingham hip hop,hip hop,100
+hungarian hip hop,hip hop,100
+christian punk,punk,99
+uk tech house,house,100
+british power metal,power metal,100
+slamming deathcore,deathcore,100
+moldovan pop,pop,100
+israeli hip hop,hip hop,100
+boston punk,punk,96
+czech pop rock,rock,100
+rap montrealais,hip hop,100
+j-indie,indie,100
+pirate,pirate,100
+instrumental soul,soul,100
+comedy rock,rock,100
+chanson virale,virale,100
+vbs,vbs,100
+christian uplift,uplift,100
+chinese drama ost,ost,100
+drift,drift,100
+russian reggae,reggae,100
+polish alternative rock,rock,75
+indian folk,folk,100
+psicodelia brasileira,brasileira,100
+turkish soundtrack,soundtrack,100
+relaxative,relaxative,95
+norwegian singer-songwriter,singer-songwriter,100
+hololive,hololive,100
+progressive uplifting trance,trance,100
+chilean hardcore,hardcore,100
+souldies,soul,100
+shonen,shonen,100
+power-pop punk,punk,100
+military rap,hip hop,100
+slovak hip hop,hip hop,100
+rap feminino nacional,hip hop,100
+russian ska,ska,100
+indonesian reggae,reggae,100
+swedish garage rock,rock,100
+deep norteno,norteno,100
+uk experimental electronic,electro,94
+atlanta metal,metal,100
+skansk musik,ska,100
+cologne indie,indie,100
+musica canaria,canaria,99
+north carolina indie,indie,100
+acid house,house,100
+rap uruguayo,hip hop,100
+early avant garde,garde,100
+oktoberfest,oktoberfest,100
+african rock,rock,100
+san diego rap,hip hop,100
+yaoi,yaoi,100
+roda de samba,samba,100
+new orleans blues,blues,100
+acoustic guitar cover,cover,100
+chinese hip hop,hip hop,100
+canadian classical,classical,100
+traditional country,country,100
+rock quebecois,rock,100
+nuevo folklore mexicano,folk,100
+mambo chileno,chileno,100
+reggae gaucho,reggae,100
+slc indie,indie,100
+finnish death metal,death metal,87
+garage pop,pop,100
+balkan beats,beats,100
+boston metal,metal,91
+delta blues,blues,100
+sudanese pop,pop,100
+slovak pop,pop,100
+experimental ambient,ambient,100
+jamgrass,jamgrass,100
+australian indigenous,indigenous,100
+belarusian pop,pop,100
+romanian rap,hip hop,100
+brisbane indie,indie,100
+pop teen brasileiro,pop,100
+ukrainian indie,indie,100
+russian indie rock,rock,100
+psychill,psychill,100
+kingston on indie,indie,100
+gypsy jazz,jazz,100
+rock alternativo espanol,rock,100
+cumbia lagunera,cumbia,100
+albuquerque indie,indie,100
+sevdah,sevdah,100
+polish reggae,reggae,100
+west end,end,100
+mundart,mundart,100
+virginia metal,metal,100
+oi,oi,99
+classic hungarian pop,pop,100
+brazilian metal,metal,100
+tango,tango,100
+k-rock,rock,100
+cancion infantil mexicana,mexicana,100
+cumbia colombiana regia,cumbia,100
+qawwali,qawwali,100
+ambient house,house,100
+finnish edm,edm,100
+classic j-rock,rock,100
+indie dream pop,pop,100
+hip-hop experimental,hip hop,100
+san diego indie,indie,78
+rap cristao,hip hop,100
+suomirap,hip hop,100
+vintage french electronic,electro,100
+trap metal italiana,trap,100
+retro metal,metal,100
+classical performance,classical,80
+pinoy pop punk,punk,100
+post-metal,metal,100
+deep minimal techno,techno,100
+classic czech pop,pop,100
+vintage chinese pop,pop,81
+eurobeat,eurobeat,100
+classic greek pop,pop,100
+alternative roots rock,rock,100
+futuristic swag,swag,100
+messianic praise,praise,100
+musica per bambini,bambini,100
+canadian children's music,music,100
+adoracion,adoracion,100
+canadian celtic,celtic,100
+danish alternative rock,rock,100
+san marcos tx indie,indie,100
+spanish synthpop,pop,100
+appalachian folk,folk,100
+german ska,ska,100
+korean old school hip hop,hip hop,100
+deep talent show,show,100
+reggae catala,reggae,100
+tempe indie,indie,100
+oshare kei,kei,100
+pony,pony,100
+japanese dance pop,pop,93
+brazilian boogie,boogie,100
+classic praise,praise,100
+rap romantico,hip hop,100
+french folk pop,pop,100
+symphonic black metal,black metal,100
+indie extremena,indie,100
+japanese new wave,wave,100
+manchester indie,indie,100
+psychobilly,psychobilly,100
+trap catala,trap,100
+louisville indie,indie,100
+canadian post-hardcore,post-hardcore,100
+futurepop,pop,100
+melodic groove metal,metal,100
+south carolina indie,indie,100
+bhajan,bhajan,100
+praise,praise,100
+icelandic singer-songwriter,singer-songwriter,100
+freakbeat,freakbeat,100
+space age pop,pop,100
+ontario indie,indie,100
+forro tradicional,tradicional,100
+brazilian emo,emo,100
+ballroom,ballroom,100
+classic french pop,pop,100
+chopped and screwed,screwed,100
+swiss rock,rock,100
+british jazz,jazz,85
+nasheed,nasheed,100
+boston folk,folk,100
+french opera,classical,100
+leipzig electronic,electro,100
+witch house,house,100
+ballet class,class,100
+neurofunk,funk,100
+atlanta indie,indie,100
+indonesian idol pop,pop,100
+classic persian pop,pop,100
+modern uplift,uplift,100
+melodic deathcore,deathcore,100
+traditional folk,folk,100
+nantes indie,indie,100
+sovietwave,sovietwave,100
+p funk,funk,100
+french psychedelic,psychedelic,100
+polish punk,punk,100
+chinese electropop,electro,99
+oc indie,indie,100
+persian hip hop,hip hop,100
+greek indie,indie,100
+5th wave emo,emo,100
+german punk rock,punk,88
+drill and bass,drill,100
+pinoy singer-songwriter,singer-songwriter,100
+french death metal,death metal,100
+trap colombiano,trap,100
+atmospheric black metal,black metal,99
+australian post-hardcore,post-hardcore,100
+new tribe,tribe,100
+blackened deathcore,deathcore,100
+twee pop,pop,100
+schweizer rap,hip hop,100
+english baroque,classical,100
+cumbia andina mexicana,cumbia,100
+crossover thrash,thrash,100
+flint hip hop,hip hop,100
+venezuelan indie,indie,93
+jamtronica,jamtronica,100
+japanese indie rock,rock,100
+vintage schlager,schlager,99
+timba,timba,100
+salsa choke,salsa,100
+slovak rock,rock,100
+collage pop,pop,100
+nashville americana,americana,100
+afghan rap,hip hop,100
+german jazz rap,hip hop,100
+deathstep,deathstep,100
+classic kollywood,kollywood,100
+tolkien metal,metal,100
+classic venezuelan pop,pop,100
+swedish progressive metal,metal,75
+british children's music,music,100
+psychedelic folk,folk,100
+hard motivation,motivation,38
+vermont indie,indie,100
+norske viser,viser,98
+trova mexicana,mexicana,100
+jazz quartet,jazz,100
+cante flamenco,flamenco,100
+belgian singer-songwriter,singer-songwriter,100
+harmonica blues,blues,99
+tallava,tallava,85
+microtonal,microtonal,100
+italian techno,techno,100
+progressive trance house,house,100
+southern gospel,gospel,97
+rap sardegna,hip hop,100
+african gospel,gospel,100
+pagan black metal,black metal,100
+malian blues,blues,100
+queercore,queercore,100
+jazz rock,rock,100
+finnish trap,trap,100
+norwegian black metal,black metal,100
+aggrotech,aggrotech,100
+cumbia uruguaya,cumbia,100
+bongo flava,flava,100
+trap tuga,trap,100
+japanese jazz,jazz,100
+dark cabaret,cabaret,100
+pinoy idol pop,pop,100
+american post-rock,rock,100
+korean indie rock,rock,100
+us power metal,power metal,100
+jazz house,house,100
+raw techno,techno,100
+magyar trap,trap,100
+thai trap,trap,100
+american metalcore,metalcore,100
+choro,choro,100
+beach house,house,100
+bristol indie,indie,100
+men chika,chika,81
+baglama,baglama,96
+malay rap,hip hop,100
+ritmo kombina,kombina,100
+latin soundtrack,latin,100
+christelijk,christelijk,100
+vietnamese singer-songwriter,singer-songwriter,100
+montreal indie,indie,100
+jacksonville indie,indie,92
+j-punk,punk,100
+swedish metalcore,metalcore,100
+arab alternative,alternative,100
+mod revival,revival,100
+portuguese rock,rock,100
+thai idol,idol,100
+gaian doom,doom,100
+channel islands indie,indie,100
+shaabi,shaabi,100
+j-ambient,ambient,100
+german worship,worship,100
+instrumental bluegrass,country,100
+abstract beats,beats,100
+super eurobeat,eurobeat,94
+american contemporary classical,classical,100
+chanson paillarde,paillarde,100
+rochester mn indie,indie,100
+dabke,dabke,100
+musica juiz-forana,juiz-forana,93
+memphis blues,blues,100
+glitchbreak,glitchbreak,100
+techno kayo,techno,100
+hong kong indie,indie,100
+russian metalcore,metalcore,100
+motivation,motivation,100
+scottish electronic,electro,100
+khaleeji iraqi,iraqi,100
+kleinkunst,kleinkunst,94
+nordic folk metal,metal,100
+israeli indie,indie,100
+kundalini,kundalini,100
+uk post-hardcore,post-hardcore,100
+brega,brega,100
+huapango,huapango,100
+folkmusik,folk,100
+american modern classical,classical,100
+electronic djent,electro,100
+musica alagoana,alagoana,100
+estonian pop,pop,100
+glasgow indie,indie,100
+french techno,techno,100
+copla,copla,100
+melbourne indie,indie,100
+grungegaze,grunge,100
+olympia wa indie,indie,100
+japanese metalcore,metalcore,100
+thai folk rock,rock,100
+grime brasileiro,grime,100
+islamic recitation,recitation,100
+orchestra,orchestra,100
+popgaze,pop,100
+christmas instrumental,instrumental,100
+azeri rap,hip hop,100
+reading indie,indie,100
+early synthpop,pop,100
+nueva ola chilena,chilena,96
+manila sound,sound,100
+poezja spiewana,spiewana,100
+dutch singer-songwriter,singer-songwriter,100
+melodic hard rock,rock,85
+classical piano,classical,100
+finnish indie,indie,100
+balkan trap,trap,100
+japanese piano,piano,100
+french movie tunes,tunes,99
+choral,choral,100
+trap peruano,trap,100
+hokkaido indie,indie,100
+italian metal,metal,100
+swedish electronic,electro,91
+nuevo flamenco,flamenco,100
+dutch americana,americana,100
+vlaamse kinderliedje,kinderliedje,100
+new orleans funk,funk,100
+musica popular paraense,pop,99
+musica popular mineira,pop,100
+cuban alternative,alternative,100
+french indie folk,folk,100
+downtempo bass,bass,100
+kolsche karneval,karneval,100
+dub techno,techno,100
+neo-trad metal,metal,100
+neo-traditional bluegrass,country,100
+indian classical,classical,99
+broken beat,beat,100
+no wave,wave,100
+musica llanera,llanera,100
+cowpunk,punk,99
+workout product,product,100
+bayerischer rap,hip hop,100
+drumfunk,funk,100
+instrumental acoustic guitar,guitar,99
+chaotic hardcore,hardcore,100
+thai folk pop,pop,100
+deep adult standards,standards,100
+paisley underground,underground,99
+cuban rumba,rumba,100
+folklore surero,folk,100
+bluegrass gospel,country,100
+arkansas hip hop,hip hop,100
+russian modern classical,classical,100
+mashup,mashup,100
+fremantle indie,indie,100
+prog metal,metal,100
+deep disco,disco,100
+socal indie,indie,100
+oriental metal,metal,100
+native american contemporary,contemporary,100
+chalga,chalga,100
+vietnamese pop,pop,100
+smutny rap,hip hop,100
+uk worship,worship,100
+rap underground argentino,hip hop,100
+japanese indie pop,pop,100
+orlando indie,indie,100
+dream trance,trance,100
+braindance,braindance,100
+ska jazz,ska,100
+xtra raw,raw,100
+post-post-hardcore,post-post-hardcore,100
+alaska indie,ska,100
+nova musica carioca,carioca,100
+oceania soundtrack,soundtrack,100
+deathrash,deathrash,100
+chinderlieder,chinderlieder,100
+latin house,house,100
+scottish metal,metal,100
+folclore santiagueno,santiagueno,100
+yodeling,yodeling,100
+rap maromba,hip hop,100
+voidgaze,voidgaze,78
+argentine metal,metal,96
+western americana,americana,100
+neo-traditional country,country,100
+dutch r&amp;b,r&amp;b,100
+blackgaze,blackgaze,100
+deep rai,rai,100
+nepali pop,pop,100
+cape town indie,indie,100
+oulu metal,metal,100
+modern jazz trio,jazz,100
+california hardcore,hardcore,100
+nyhc,nyhc,100
+musica maranhense,maranhense,100
+tone,tone,100
+j-reggae,reggae,100
+korean electropop,electro,100
+american shoegaze,shoegaze,100
+jump blues,blues,100
+musica potosina,potosina,100
+nu skool breaks,breaks,100
+cedm,edm,100
+thrash core,core,100
+japanese jazztronica,jazz,100
+fluxwork,fluxwork,100
+deep comedy,comedy,100
+pop minang,pop,100
+instrumental math rock,rock,100
+bozlak,bozlak,100
+lds,lds,100
+dutch trap,trap,100
+korean singer-songwriter,singer-songwriter,100
+ukrainian hip hop,hip hop,100
+cambridgeshire indie,indie,100
+new isolationism,isolationism,89
+experimental vocal,vocal,100
+avant-garde,avant-garde,100
+danish electropop,electro,100
+mahraganat,mahraganat,100
+nuevo folklore argentino,folk,100
+french tech house,house,100
+lagu timur,timur,100
+drone metal,metal,100
+new england emo,emo,100
+progressive sludge,sludge,100
+balearic,balearic,100
+emo punk,punk,100
+krautrock,rock,100
+kc indie,indie,100
+chanson quebecois,quebecois,100
+dayton indie,indie,100
+substep,substep,100
+speed garage,garage,100
+korean dream pop,pop,100
+batak,batak,100
+classic portuguese pop,pop,100
+shatta,shatta,100
+clean comedy,comedy,100
+icelandic folk,folk,100
+nordic folk,folk,100
+swiss metal,metal,100
+elephant 6,6,100
+classic k-pop,k-pop,100
+salsa cubana,salsa,100
+8d,8d,100
+italian jazz,jazz,100
+nz indie,indie,100
+fidget house,house,100
+canto popular uruguayo,pop,100
+sung poetry,poetry,100
+australian americana,americana,100
+wyoming roots,roots,100
+tatar pop,pop,100
+touhou,touhou,100
+peruvian indie,indie,100
+kids dance party,party,100
+arab folk,folk,100
+canadian modern jazz,jazz,100
+ukrainian classical,classical,100
+huayno,huayno,100
+auteur-compositeur-interprete quebecois,quebecois,100
+irish indie,indie,100
+african reggae,reggae,100
+shimmer psych,psych,100
+baltimore hip hop,hip hop,77
+rosary,rosary,100
+cha-cha-cha,cha-cha-cha,100
+c86,c86,100
+latin tech house,house,100
+syrian pop,pop,86
+queer country,country,100
+pinoy alternative rap,hip hop,100
+korean mask singer,singer,100
+french worship,worship,100
+taiwan idol pop,pop,100
+czech punk,punk,100
+belarusian rock,rock,100
+flamenco guitar,guitar,97
+victoria bc indie,indie,100
+turkish modern jazz,jazz,100
+cumbia salvadorena,cumbia,100
+brazilian punk rock,punk,100
+japanese power metal,power metal,100
+virgin islands reggae,reggae,100
+rap regio,hip hop,100
+polish metal,metal,100
+dark jazz,jazz,100
+murcia indie,indie,100
+hong kong rock,rock,100
+new england americana,americana,100
+vienna indie,indie,100
+euskal rock,ska,100
+musica cristiana guatemalteca,alternative,100
+coral gospel,gospel,100
+turin indie,indie,100
+mestissatge,mestissatge,100
+reunion pop,pop,100
+rhythm game,game,100
+space ambient,ambient,100
+norwegian folk rock,rock,100
+charlottesville indie,indie,83
+musica criolla,criolla,100
+desert blues,blues,100
+kurdish hip hop,hip hop,100
+deep soul house,house,100
+azeri traditional,traditional,100
+nerdcore,nerdcore,100
+british modern classical,classical,100
+kodomo no ongaku,ongaku,100
+christian hardcore,hardcore,100
+rock piauiense,rock,100
+adventista,adventista,100
+classic tollywood,tollywood,100
+proto-techno,techno,100
+balkan brass,brass,100
+uk post-punk revival,punk,100
+indie psych-pop,pop,100
+thai folk,folk,100
+cumbia ecuatoriana,cumbia,100
+brass band,band,100
+duluth indie,indie,100
+children's choir,choir,100
+electric bass,bass,100
+horrorcore,horrorcore,100
+japanese chill rap,hip hop,88
+exotica,exotica,100
+neue volksmusik,volksmusik,100
+funk melody,funk,100
+cocuk sarkilari,sarkilari,100
+enka,enka,100
+gypsy punk,punk,100
+spacewave,spacewave,96
+african-american classical,classical,100
+chicago pop punk,punk,100
+irish electronic,electro,100
+deathgrind,deathgrind,100
+electro dub,electro,81
+indian fusion,fusion,100
+nordnorsk musikk,musikk,100
+brazilian classical,classical,99
+german post-hardcore,post-hardcore,28
+welsh indie,indie,100
+nasyid,nasyid,100
+omaha indie,indie,100
+sertanejo gospel,gospel,100
+honeyworks,honeyworks,100
+nz singer-songwriter,singer-songwriter,100
+dark electro,electro,100
+funk mexicano,funk,100
+norwegian jazz,jazz,100
+nz electronic,electro,100
+norwegian trap,trap,100
+finnish hard rock,rock,100
+canzone genovese,genovese,100
+florida death metal,death metal,100
+polish electronica,electro,100
+vlaamse rap,hip hop,100
+deep latin alternative,latin,100
+avant-garde metal,metal,100
+greek underground rap,hip hop,100
+hauntology,hauntology,100
+streektaal,streektaal,100
+samba-enredo,samba-enredo,100
+rogaland musikk,musikk,100
+seinen,seinen,100
+folklore boliviano,folk,100
+dutch dnb,drum and bass,100
+instrumental djent,djent,100
+afrobeat brasileiro,brasileiro,100
+progressive death metal,death metal,100
+indie curitibano,indie,100
+german country,country,100
+south african gospel,gospel,100
+norwegian classical,classical,100
+svensk progg,progg,100
+nl folk,folk,100
+thai teen pop,pop,100
+jazz metal,metal,100
+garage house,house,100
+bolero cubano,cubano,100
+frankfurt electronic,electro,100
+latin ska,ska,100
+japanese shoegaze,shoegaze,100
+swedish punk,punk,100
+sinhala pop,pop,100
+musica gaucha,gaucha,70
+tanzanian pop,pop,100
+highlife,highlife,100
+hip hop cubano,hip hop,100
+jazz mexicano,jazz,100
+dutch indie rock,rock,100
+indian rock,rock,100
+southern metal,metal,100
+german heavy metal,metal,100
+rumba catalana,catalana,91
+deutsch disney,disney,100
+polish post-punk,punk,100
+deep dubstep,dubstep,100
+zouglou,zouglou,100
+croatian rock,rock,100
+japanese post-rock,rock,100
+dusseldorf electronic,electro,100
+japanese folk,folk,100
+folklore ecuatoriano,folk,100
+south african trap,trap,100
+russian pop punk,punk,100
+sevillanas,sevillanas,100
+canadian house,house,100
+argentine ambient,ambient,100
+hardvapour,hardvapour,100
+philly drill,drill,100
+deep techno,techno,100
+latvian pop,pop,100
+morna,morna,100
+swedish heavy metal,metal,69
+irish pub song,song,100
+assamese pop,pop,100
+midwest americana,americana,100
+musica nicaraguense,nicaraguense,100
+minimal dub,dub,81
+trinibad,trinibad,100
+musique guadeloupe,guadeloupe,100
+jumpstyle,jumpstyle,100
+bounce,bounce,100
+ukrainian electronic,electro,100
+rumba congolaise,congolaise,100
+dc hardcore,hardcore,96
+jazz trombone,jazz,100
+sheilat,sheilat,100
+blasmusik,blasmusik,100
+czech classical,classical,100
+marathi pop,pop,100
+gothenburg hip hop,hip hop,100
+turkce remix,remix,100
+arabic jazz,jazz,100
+dalarna indie,indie,100
+german boom bap,bap,100
+bristol electronic,electro,100
+munich indie,indie,100
+musica angolana,angolana,100
+folklore peruano,folk,100
+folclore tucumano,tucumano,100
+italian tech house,house,100
+piratenmuziek,piratenmuziek,100
+eugene indie,indie,100
+electrofox,electro,96
+cuatro venezolano,venezolano,100
+synth punk,punk,100
+spiritual hip hop,hip hop,100
+nova canco,canco,100
+scottish folk,folk,100
+brazilian thrash metal,thrash metal,100
+calypso,calypso,100
+finnish punk,punk,100
+math rock,rock,100
+dutch tech house,house,100
+hungarian folk,folk,100
+japanese math rock,rock,100
+turkish punk,punk,100
+classic bangla pop,pop,83
+vancouver punk,punk,100
+new beat,beat,100
+classic bhangra,bhangra,100
+guitarra mexicana,mexicana,100
+swedish house,house,100
+kawaii edm,edm,100
+neo-rockabilly,rock,100
+kyushu indie,indie,100
+swedish doom metal,doom metal,100
+metal guitar,metal,100
+musica sarda,sarda,99
+ska espanol,ska,100
+italian progressive rock,rock,100
+love live,live,100
+bard,bard,100
+experimental bass,bass,100
+kent indie,indie,100
+accordion,accordion,100
+merengue tipico,merengue,100
+classical guitar,classical,100
+spa,spa,100
+sunnlensk tonlist,tonlist,100
+vancouver metal,metal,100
+crust punk,punk,100
+hammond organ,organ,100
+russian synthpop,pop,100
+malaysian hip hop,hip hop,100
+denton tx indie,indie,100
+egyptian alternative,alternative,100
+azeri pop,pop,100
+dutch prog,prog,100
+chinese minyao,minyao,100
+kompa,kompa,100
+symphonic power metal,power metal,100
+southern soul blues,blues,100
+french dub,dub,100
+dunedin indie,indie,100
+psychokore,psychokore,100
+rap criolo,hip hop,100
+london indie,indie,100
+ghent indie,indie,100
+trondersk musikk,musikk,100
+ecuadorian indie,indie,99
+tamborazo,tamborazo,100
+black comedy,comedy,100
+country quebecois,country,100
+deathgrass,deathgrass,100
+ambient post-rock,ambient,100
+doomgaze,doomgaze,100
+piedmont blues,edm,100
+soul flow,soul,100
+christchurch indie,indie,100
+buffalo ny metal,metal,100
+rock alternatif francais,rock,100
+vintage tango,tango,100
+nordic post-rock,rock,100
+irish metal,metal,100
+bornesange,bornesange,100
+son cubano,cubano,100
+outsider,outsider,100
+miami bass,bass,100
+full on,on,100
+corridos cristianos,cristianos,100
+rap capixaba,hip hop,100
+slovak punk,punk,100
+432hz,432hz,97
+black thrash,thrash,100
+experimental classical,classical,100
+beats,beats,100
+turkish metal,metal,100
+belgian techno,techno,100
+tampa indie,indie,100
+symphonic death metal,death metal,100
+metal mineiro,metal,100
+dungeon synth,synth,35
+vocal trance,trance,98
+swamp pop,pop,100
+huayno popular,pop,97
+tipico,tipico,100
+hong kong hip hop,hip hop,100
+indie cordoba,indie,99
+rennes indie,indie,100
+slovenian electronic,electro,100
+south african jazz,jazz,100
+grindcore,grindcore,100
+carimbo,carimbo,99
+vietnamese bolero,bolero,100
+austrian hip hop,hip hop,100
+hiplife,hiplife,67
+alternative ccm,alternative,100
+ghanaian alternative,alternative,100
+manitoba indie,indie,100
+pokemon,emo,100
+deep christian rock,rock,100
+musica capixaba,capixaba,100
+thai indie,indie,100
+kompa gouyad,gouyad,100
+japanese guitar,guitar,100
+british orchestra,orchestra,100
+soviet synthpop,pop,100
+bleep techno,techno,100
+german indie pop,pop,100
+hypnosis mic,mic,100
+brazilian groove metal,metal,100
+indy indie,indie,100
+zillertal,zillertal,100
+bangla pop,pop,100
+gregorian chant,chant,100
+north carolina metal,metal,98
+new wave of thrash metal,thrash metal,100
+sasscore,sasscore,100
+mandolin,mandolin,100
+danish post-punk,punk,99
+glitch pop,pop,100
+mgpjr,mgpjr,100
+zespol dzieciecy,dzieciecy,100
+york indie,indie,100
+mbalax,mbalax,100
+vintage swedish pop,pop,100
+kundiman,kundiman,100
+okc indie,indie,100
+munich electronic,electro,99
+tin pan alley,alley,100
+australian metal,metal,95
+brazilian hardcore,hardcore,100
+nu age,age,100
+jazz clarinet,jazz,100
+kaneka,kaneka,100
+tulsa indie,indie,100
+makossa,makossa,100
+deep dnb,drum and bass,100
+comedia,comedia,100
+galician rock,rock,100
+hamilton on indie,indie,100
+nz christian,christian,100
+rebetiko,rebetiko,100
+zamba,zamba,100
+instrumental stoner rock,rock,100
+danish indie pop,pop,100
+aussie emo,emo,100
+manso indie,indie,100
+granada indie,indie,100
+minimal wave,wave,100
+italian power metal,power metal,100
+japanese disney,disney,100
+swedish synth,synth,100
+pinoy praise,praise,72
+canadian indie folk,folk,100
+sydney indie,indie,100
+luk thung,thung,100
+chinese indie rock,rock,86
+atlanta punk,punk,100
+rhode island indie,indie,100
+folclor colombiano,colombiano,100
+funana,funana,100
+atmospheric dnb,drum and bass,100
+rap kreyol,hip hop,100
+novelty,novelty,100
+straight-ahead jazz,jazz,89
+wu fam,fam,100
+czech singer-songwriter,singer-songwriter,100
+musica paraibana,paraibana,100
+indonesian blues,blues,90
+rap liegeois,hip hop,100
+indie siciliano,indie,100
+grand rapids indie,hip hop,100
+thai pop rap,hip hop,100
+viola caipira,caipira,100
+judaica,judaica,99
+classic icelandic pop,pop,100
+leeds indie,indie,100
+funk capixaba,funk,100
+connecticut hardcore,hardcore,100
+zen,zen,100
+detroit house,house,100
+tunisian pop,pop,100
+indonesian indie rock,rock,100
+israeli trap,trap,95
+gothic americana,americana,100
+halftime dnb,drum and bass,100
+malayalam pop,pop,100
+jazz drums,jazz,100
+riddim dubstep,dubstep,100
+musica ayacuchana,ayacuchana,100
+brazilian progressive metal,metal,100
+british contemporary classical,classical,100
+jazz organ,jazz,100
+classic dutch pop,pop,100
+indie emo,emo,100
+rock chapin,rock,100
+power blues-rock,rock,100
+autonomous black metal,black metal,100
+cumbia boliviana,cumbia,100
+icelandic electronic,electro,100
+charanga,charanga,100
+japanese rockabilly,rock,100
+paraguayan rock,rock,100
+musik anak-anak,anak-anak,100
+hardtekk,hardtekk,100
+cantautor catala,catala,100
+operetta,operetta,100
+nueva trova chilena,chilena,100
+taiwanese indie,indie,99
+acid techno,techno,100
+soukous,soukous,100
+nwocr,nwocr,100
+horror synth,synth,100
+slam poetry,poetry,100
+alabama metal,metal,100
+german tech house,house,100
+musica tabasquena,tabasquena,100
+beatboxing,beatboxing,100
+black punk,punk,100
+jazz cubano,jazz,100
+deep big room,room,100
+opera,classical,100
+german literature,literature,100
+bath indie,indie,100
+native american flute,flute,100
+vgm instrumental,instrumental,100
+korean indie folk,folk,100
+christian hard rock,rock,100
+heavy alternative,alternative,96
+rochester ny indie,indie,100
+asheville indie,indie,100
+goregrind,goregrind,100
+karneval,karneval,100
+doujin,doujin,100
+romanian rock,rock,100
+trance mexicano,trance,100
+rock keyboard,rock,99
+experimental house,house,100
+russian trance,trance,100
+hamburg indie,indie,100
+vintage hollywood,hollywood,100
+technical groove metal,metal,100
+north carolina emo,emo,100
+pop ambient,ambient,92
+gothic black metal,black metal,100
+deep smooth jazz,jazz,100
+family gospel,gospel,100
+charlotte nc indie,indie,100
+campursari,campursari,100
+spanish folk rock,rock,100
+fort worth indie,indie,100
+nz folk,folk,100
+austrian indie,indie,100
+mexican metal,metal,99
+danish jazz,jazz,67
+classic nz pop,pop,100
+belarusian electronic,electro,100
+underground power pop,pop,72
+pittsburgh rock,rock,85
+persian rock,rock,100
+korean trap,trap,100
+musical advocacy,advocacy,100
+australian ska,ska,100
+okinawan folk,folk,100
+russian folk,folk,100
+hindustani classical,classical,100
+j-core,j-core,100
+deep uplifting trance,trance,100
+sesame street,street,100
+german indie rock,rock,100
+swiss trap,trap,100
+deep chill,chill,100
+irish indie rock,rock,100
+middle east hip hop,hip hop,100
+bulgarian hip hop,hip hop,86
+persian alternative,alternative,100
+kurdish folk,folk,100
+russian nu metal,metal,100
+ulkucu sarkilar,sarkilar,100
+musica costarricense,costarricense,94
+modern old-time,old-time,100
+funk evangelico,funk,100
+blaskapelle,ska,100
+miami indie,indie,100
+eventyr,eventyr,97
+indonesian ska,ska,100
+birmingham indie,indie,100
+sound art,art,100
+euskal musica,ska,100
+kabyle,kabyle,100
+48g,48g,100
+galante era,era,100
+detroit techno,techno,100
+modern cello,cello,100
+rap angolano,hip hop,100
+spanish reggae,reggae,100
+indie platense,indie,100
+progressive doom,doom,100
+guyanese pop,pop,100
+french punk,punk,100
+progressive power metal,power metal,96
+ethio-jazz,jazz,100
+reggae maghreb,reggae,100
+ambient idm,ambient,100
+hungarian edm,edm,100
+trap cristao,trap,99
+cincinnati rap,hip hop,100
+greek metal,metal,100
+classic greek rock,rock,100
+musica afroperuana,afroperuana,100
+french baroque,classical,98
+traditional ska,ska,100
+twoubadou,twoubadou,100
+technical thrash,thrash,100
+beat italiano,italiano,100
+brazilian post-hardcore,post-hardcore,100
+musiikkia lapsille,lapsille,100
+cantautora argentina,argentina,100
+post-black metal,black metal,73
+pop paraguayo,pop,100
+vintage jazz,jazz,100
+jazz double bass,jazz,100
+brutal deathcore,deathcore,61
+christian afrobeat,afrobeat,100
+singing bowl,bowl,100
+vintage dutch pop,pop,100
+kizomba antigas,antigas,100
+gainesville indie,indie,100
+dublin indie,indie,100
+turkish electronic,electro,100
+talentkonkurranse,talentkonkurranse,100
+musica indigena latinoamericana,latin,100
+renaissance,renaissance,100
+waiata mo tamariki,tamariki,100
+smooth soul,soul,100
+neue deutsche todeskunst,todeskunst,100
+michigan indie,indie,100
+japanese underground rap,hip hop,95
+indonesian indie pop,pop,100
+dark black metal,black metal,100
+hokkien pop,pop,100
+classic italian folk pop,pop,100
+armenian pop,pop,90
+victorian britain,britain,100
+anarcho-punk,punk,73
+gothic alternative,alternative,100
+one-person band,band,100
+bardcore,bardcore,100
+british black metal,black metal,100
+norwegian house,house,100
+german thrash metal,thrash metal,100
+nice indie,indie,100
+catalan folk,folk,100
+tekno,tekno,100
+21st century classical,classical,100
+jordanian pop,pop,100
+ambient techno,techno,100
+neotango,neotango,100
+miami metal,metal,100
+welsh hip hop,hip hop,100
+disney espanol,espanol,100
+new delhi indie,indie,100
+german jazz,jazz,100
+dissonant death metal,death metal,100
+swing italiano,italiano,100
+afro-funk,funk,100
+salsa urbana,salsa,100
+ugandan pop,pop,93
+cypriot pop,pop,100
+folclor afrocolombiano,afrocolombiano,100
+huayno peruano,peruano,98
+lithuanian hip hop,hip hop,100
+san antonio rap,hip hop,94
+rare groove,groove,100
+manipuri pop,pop,98
+musica istmena,istmena,100
+british comedy,comedy,96
+coco,coco,70
+punk chileno,punk,100
+trival,trival,100
+devon indie,indie,100
+novo rock gaucho,rock,100
+modular synth,synth,100
+indie rock peruano,rock,100
+usbm,usbm,100
+new mexico music,music,100
+instrumental surf,surf,100
+kenyan pop,pop,100
+german ccm,ccm,100
+marching band,band,100
+folklore paraguayo,folk,100
+palestinian pop,pop,100
+dreamgaze,dreamgaze,100
+japanese garage rock,rock,100
+geek rock,rock,100
+electro trash,electro,100
+indonesian emo,emo,100
+spanish folk,folk,100
+college a cappella,cappella,100
+afro-cuban percussion,percussion,100
+slovenian pop,pop,79
+psychedelic punk,punk,100
+baiao,baiao,100
+phoenix indie,indie,100
+commons,commons,100
+carnaval limburg,limburg,100
+british death metal,death metal,100
+ambient psychill,ambient,86
+boogie-woogie,boogie-woogie,100
+korean superband,superband,100
+ethiopian pop,pop,100
+alt-idol,alternative,100
+persian electronic,electro,100
+andean flute,flute,100
+japanese ska,ska,100
+denver indie,indie,100
+spanish indie folk,folk,100
+downtempo deathcore,deathcore,100
+musica santomense,santomense,100
+norrlandsk hip hop,hip hop,100
+vaqueiro,vaqueiro,95
+swedish black metal,black metal,100
+jazz vibraphone,hip hop,91
+italian trance,trance,100
+gulf hip hop,hip hop,100
+sci-fi metal,metal,100
+swedish stoner rock,rock,100
+classic romanian pop,pop,100
+christian a cappella,cappella,98
+cdmx indie,indie,100
+slack-key guitar,guitar,100
+musica yucateca,yucateca,100
+ensemble stars,stars,100
+bouzouki,bouzouki,100
+mantra,mantra,100
+deep idm,idm,94
+chinese manyao,manyao,100
+junior eurovision,eurovision,100
+tennessee metal,metal,100
+argentine indie rock,rock,100
+cumbia surena,cumbia,100
+nepali indie,indie,100
+drone folk,folk,100
+hangpan,hangpan,100
+porro,porro,71
+chakra,chakra,100
+deep melodic metalcore,metalcore,100
+classic australian country,country,91
+stomp and whittle,whittle,100
+blues latinoamericano,blues,100
+griot,griot,100
+classic sinhala pop,pop,100
+comptine,comptine,100
+indie valenciana,indie,100
+musica popular uruguaya,pop,91
+elektropunk,punk,100
+utah indie,indie,100
+west australian hip hop,hip hop,100
+newcastle indie,indie,100
+kids hip hop,hip hop,100
+swedish rockabilly,rock,100
+nwothm,nwothm,100
+piano mpb,mpb,100
+viral pop brasileiro,pop,100
+guatemalan pop,pop,100
+vispop,pop,100
+children's story,story,93
+kermis,kermis,100
+indie electronica,electro,100
+abstract,abstract,100
+symfonicky orchestr,orchestr,100
+tamaulipas indie,indie,100
+gaita zuliana,zuliana,100
+chinese audiophile,audiophile,100
+spiritual jazz,jazz,100
+melodipop,pop,100
+varmland rock,rock,100
+deep gothic post-punk,punk,100
+plena uruguaya,uruguaya,100
+pakistani folk,folk,83
+danish indie,indie,100
+waiata maori,maori,92
+german show tunes,tunes,100
+korean electronic,electro,100
+technical deathcore,deathcore,100
+bush ballad,ballad,100
+rap paranaense,hip hop,80
+schranz,schranz,100
+dansei seiyu,seiyu,99
+gujarati garba,garba,80
+memphis americana,americana,100
+gengetone,gengetone,100
+canadian blues,blues,80
+corrosion,corrosion,99
+hinos ccb,ccb,99
+canadian hardcore,hardcore,100
+cinematic post-rock,rock,100
+zikir,zikir,100
+chinese talent show,show,100
+bandoneon,bandoneon,100
+cyber metal,metal,100
+visor,visor,100
+grebo,grebo,99
+cincinnati indie,indie,100
+minimal melodic techno,techno,100
+classic anime,anime,100
+cape verdean folk,folk,100
+polish death metal,death metal,100
+carnatic vocal,vocal,100
+connecticut indie,indie,100
+reggae peruano,reggae,100
+congolese gospel,gospel,100
+traditional british folk,folk,100
+windsor on indie,indie,100
+nova musica paulista,paulista,100
+darkstep,darkstep,100
+rockabilly en espanol,rock,100
+classic hungarian rock,rock,100
+danish techno,techno,28
+bajki,bajki,100
+taiwan punk,punk,100
+danish modern jazz,jazz,100
+jackin' house,house,100
+sinaloa indie,indie,100
+musica cabo-verdiana,cabo-verdiana,100
+tropical tecladista,tecladista,100
+tape club,club,100
+japanese dream pop,pop,100
+breakcore,breakcore,100
+portuguese indie,indie,100
+rock viet,rock,100
+bhojpuri pop,pop,67
+greek house,house,100
+deep soundtrack,soundtrack,100
+mega funk,funk,100
+orebro indie,indie,100
+ragga jungle,jungle,100
+german opera,classical,97
+carnatic,carnatic,100
+ok indie,indie,100
+southern americana,americana,100
+british post-rock,rock,100
+halloween,halloween,99
+japanese beats,beats,100
+spanish invasion,invasion,100
+polish black metal,black metal,100
+bangladeshi hip hop,hip hop,100
+pakistani indie,indie,100
+greek downtempo,downtempo,100
+musica tropical guatemalteca,alternative,100
+guided meditation,meditation,94
+rap ivoire,hip hop,100
+southampton indie,indie,100
+ostrock,rock,100
+neapolitan funk,funk,100
+jazzy dnb,drum and bass,100
+truck-driving country,country,100
+japanese heavy metal,metal,100
+apostolic worship,worship,100
+kora,kora,100
+hard techno,techno,100
+virginia punk,punk,100
+cosmic post-rock,rock,100
+dub reggae,reggae,100
+italian folk metal,metal,100
+himachali pop,pop,100
+italo house,house,100
+semba,semba,100
+slow game,game,100
+orchestral performance,performance,100
+irish neo-traditional,neo-traditional,100
+polish synthpop,pop,100
+guinean pop,pop,100
+chabad niggunim,niggunim,100
+serbian hip hop,hip hop,100
+library music,music,100
+russian techno,techno,100
+italian gothic metal,metal,100
+western swing,swing,99
+lexington ky indie,indie,82
+italian gothic,gothic,97
+chamber folk,folk,100
+polca paraguaya,paraguaya,100
+british country,country,100
+forro gospel,gospel,100
+buffalo ny indie,indie,100
+raggatek,raggatek,100
+sound effects,effects,100
+pop costarricense,pop,100
+acid jazz,jazz,100
+hungarian punk,punk,100
+norsk lovsang,lovsang,100
+neofolk,folk,100
+classic progressive house,house,100
+math pop,pop,100
+keroncong,keroncong,100
+british grindcore,grindcore,100
+polynesian hip hop,hip hop,94
+mallsoft,mallsoft,100
+norwegian contemporary jazz,jazz,100
+japanese blues,blues,100
+australian ambient,ambient,90
+new orleans indie,indie,100
+old west,west,100
+garage punk,punk,100
+puerto rican folk,folk,61
+finnish classical,classical,100
+dirty texas rap,hip hop,100
+malang indie,indie,100
+brazilian ska,ska,100
+world chill,chill,100
+er ge,ge,100
+russian heavy metal,metal,100
+nz dnb,drum and bass,79
+boston hardcore,hardcore,100
+shojo,shojo,100
+deathrock,rock,100
+long island punk,punk,100
+classic luk thung,thung,100
+uk82,uk82,100
+japanese contemporary classical,classical,97
+uk dub,dub,90
+comedienne,comedienne,100
+austrian dnb,drum and bass,100
+cleveland metal,metal,100
+death 'n' roll,roll,100
+halifax indie,indie,100
+musica eletronica gospel,gospel,100
+greek contemporary classical,classical,100
+speedcore,speedcore,100
+euroska,ska,100
+coupe-decale,coupe-decale,100
+mexican son,son,100
+new wave of glam metal,metal,100
+hamburger schule,schule,86
+thai worship,worship,100
+croatian indie,indie,100
+early reggae,reggae,100
+swamp blues,blues,100
+chinese traditional,traditional,100
+portland punk,punk,99
+rock curitibano,rock,97
+spanish electronic,electro,100
+hard trance,trance,100
+modern enka,enka,100
+taiwan campus folk,folk,100
+oaxaca indie,indie,100
+graz indie,indie,100
+berlin minimal techno,techno,100
+violin,violin,100
+audiophile vocal,vocal,100
+grimewave,grime,100
+canadian indigenous,indigenous,100
+slavic folk metal,metal,100
+austin hip hop,hip hop,100
+melodic black metal,black metal,100
+sandalwood,sandalwood,100
+columbus ohio indie,indie,100
+tibetan pop,pop,100
+brazilian power metal,power metal,100
+croatian hip hop,hip hop,100
+polish blues,blues,68
+guitarra andina,andina,100
+solipsynthm,solipsynthm,100
+little rock indie,rock,100
+czech country,country,100
+ska catala,ska,100
+louisiana metal,metal,100
+alberta hip hop,hip hop,100
+greek swing,swing,100
+footwork,footwork,100
+korean underground rap,hip hop,97
+rap pernambucano,hip hop,100
+belgian indie rock,rock,100
+histoire pour enfants,enfants,100
+black 'n' roll,roll,100
+warm drone,drone,77
+indian electronic,electro,87
+classic azeri pop,pop,83
+karaoke,karaoke,100
+punk euskera,punk,100
+lagu sunda,sunda,100
+icelandic hip hop,hip hop,100
+kwaito,kwaito,100
+hungarian metal,metal,100
+dark folk,folk,99
+italian electronica,electro,100
+touken ranbu,ranbu,78
+samurai trap,trap,100
+batida,batida,100
+japanese celtic,celtic,100
+string folk,folk,97
+marimba orquesta,orquesta,87
+psalmen,psalmen,100
+jersey club,club,97
+louvor icm,icm,89
+gothabilly,gothabilly,86
+dutch moombahton,moombahton,100
+malaysian tamil pop,pop,100
+harp,harp,88
+brazilian modern jazz,jazz,100
+dub punk,punk,100
+festigal,festigal,100
+detskie pesni,pesni,100
+dallas indie,indie,100
+norwegian space disco,disco,100
+dub metal,metal,100
+japanese indie folk,folk,100
+tuareg guitar,guitar,100
+mississippi indie,indie,100
+dub brasileiro,brasileiro,100
+folklore nuevo argentino,folk,99
+austrian metal,metal,100
+idaho indie,indie,100
+rock of gibraltar,rock,100
+baltic classical,classical,100
+american primitive,primitive,100
+phleng phuea chiwit,chiwit,100
+western mass indie,indie,100
+viking black metal,black metal,100
+ai,ai,94
+action rock,rock,100
+arab groove,groove,92
+persian traditional,traditional,100
+spanish techno,techno,100
+musicas espiritas,espiritas,100
+rap underground colombiano,hip hop,100
+greek guitar,guitar,100
+experimental jazz,jazz,100
+korean worship,worship,100
+yoga,yoga,100
+new weird finland,finland,99
+armenian folk,folk,100
+sonora indie,indie,100
+christian power metal,power metal,100
+paidika tragoudia,tragoudia,100
+swiss reggae,reggae,100
+classic japanese jazz,jazz,100
+rap galego,hip hop,100
+beach music,music,100
+experimental folk,folk,100
+technical brutal death metal,death metal,94
+alpine yodeling,yodeling,82
+finnish new wave,wave,100
+worcester ma indie,indie,100
+czech folk rock,rock,77
+haitian gospel,gospel,100
+charango,charango,100
+shabad,shabad,100
+indonesian psychedelia,psychedelia,100
+jazz brass,jazz,100
+modern swing,swing,66
+rosario indie,indie,100
+belgian metal,metal,100
+uk christian rap,hip hop,82
+disney portugues brasil,brasil,100
+stl indie,indie,100
+armenian hip hop,hip hop,100
+swedish folk pop,pop,29
+scottish techno,techno,65
+anime cv,cv,100
+peruvian punk,punk,100
+venda pop,pop,100
+spanish rockabilly,rock,100
+japanese psychedelic,psychedelic,100
+classic korean pop,pop,100
+portland metal,metal,100
+psydub,psydub,100
+modern progressive rock,rock,100
+chinese worship,worship,100
+bulgarian rock,rock,100
+swedish techno,techno,100
+beatdown,beatdown,100
+gqom,gqom,100
+moog,moog,100
+polish indie rock,rock,87
+polish prog,prog,100
+finnish pop punk,punk,100
+folclore jujeno,jujeno,100
+dutch disney,disney,95
+canterbury scene,scene,100
+asakaa,asakaa,85
+berlin school,school,100
+stockholm indie,indie,97
+nuevo tango,tango,100
+norwegian punk rock,punk,87
+ambient trance,trance,100
+warrington indie,indie,100
+montenegrin pop,pop,95
+rock en asturiano,rock,100
+dubsteppe,dubstep,100
+japanese vocal jazz,jazz,100
+musica catarinense,catarinense,98
+jazz harp,jazz,95
+chinese jazz,jazz,100
+sanfona,sanfona,100
+italian contemporary jazz,jazz,100
+minimal dnb,drum and bass,100
+rabindra sangeet,sangeet,100
+american melodeath,melodeath,100
+kyrgyz hip hop,hip hop,76
+indie shoegaze,indie,98
+israeli jazz,jazz,100
+tunantada,tunantada,100
+punk catala,punk,100
+indonesian metal,metal,100
+oud,oud,100
+pennsylvania hardcore,hardcore,100
+musica popular amazonense,pop,100
+norwegian americana,americana,100
+musique comorienne,comorienne,100
+muzica crestina,crestina,100
+latvian hip hop,hip hop,100
+mandible,mandible,100
+nz children's music,music,100
+swiss house,house,100
+russian dnb,drum and bass,100
+british industrial,industrial,96
+canadian metalcore,metalcore,100
+spanish post-punk,punk,99
+neo-kraut,neo-kraut,89
+free improvisation,improvisation,100
+canadian underground hip hop,hip hop,100
+flemish folk,folk,100
+jewish hip hop,hip hop,100
+czech metal,metal,72
+electronica chilena,electro,100
+zimdancehall,dancehall,100
+plunderphonics,plunderphonics,100
+burmese pop,pop,90
+multidisciplinary,multidisciplinary,100
+american grindcore,grindcore,100
+turkish classical,classical,100
+japanese electronic,electro,100
+powerviolence,powerviolence,74
+reiki,reiki,100
+spanish prog,prog,91
+australian comedy,comedy,100
+russian emo,emo,100
+hard house,house,100
+norwegian gospel,gospel,100
+spirituals,spirituals,100
+newfoundland indie,indie,88
+thall,thall,100
+jazz puertorriqueno,jazz,100
+svensk lovsang,lovsang,100
+surinamese pop,pop,100
+ohio indie,indie,100
+ottawa indie,indie,100
+chant religieux,religieux,100
+russian shoegaze,shoegaze,100
+musica andina colombiana,colombiana,99
+bruneian pop,pop,100
+dominican indie,indie,100
+depressive black metal,black metal,100
+puerto rican indie,indie,100
+deep liquid bass,bass,100
+indie napoletano,indie,100
+texas punk,punk,100
+samoan pop,pop,100
+folklore uruguayo,folk,100
+deep acoustic pop,pop,100
+rap metal espanol,metal,100
+rap guarulhense,hip hop,100
+dark hardcore,hardcore,100
+neru,neru,99
+reggae mexicano,reggae,100
+benga,benga,100
+maluku pop,pop,100
+bible,bible,100
+quebec death metal,death metal,61
+deep flow,flow,100
+musica lombarda,lombarda,93
+wassoulou,soul,100
+electro bailando,electro,100
+disney italiano,italiano,100
+kentucky metal,metal,100
+swing revival,revival,100
+spytrack,spytrack,100
+stateside dnb,drum and bass,100
+belgian dnb,drum and bass,100
+tucson indie,indie,100
+technical melodic death metal,death metal,100
+brazilian percussion,percussion,100
+bay area hip hop,hip hop,100
+chicano punk,punk,100
+south african choral,choral,100
+purple sound,sound,100
+accordeon,accordeon,100
+vogue,vogue,100
+acidcore,acidcore,100
+musica infantil catala,catala,100
+focus trance,trance,82
+indie folk argentino,folk,100
+italian ska,ska,100
+hard minimal techno,techno,100
+detroit indie,indie,97
+edinburgh indie,indie,100
+lithuanian rock,rock,100
+deep soft rock,rock,100
+austin singer-songwriter,singer-songwriter,100
+rva indie,indie,100
+ryukyu ongaku,ongaku,100
+finnish reggae,reggae,100
+amharic pop,pop,100
+italian new wave,wave,97
+german pagan metal,metal,100
+viet lo-fi,lo-fi,100
+fake,fake,100
+cook islands pop,pop,74
+cosmic death metal,death metal,100
+kolkata indie,indie,98
+belarusian punk,punk,100
+danish singer-songwriter,singer-songwriter,100
+didgeridoo,didgeridoo,100
+gospel reggae,reggae,100
+psybass,psybass,98
+kentucky punk,punk,100
+indonesian edm,edm,94
+funky breaks,funk,100
+orquestas de galicia,galicia,100
+instrumental progressive metal,metal,100
+french black metal,black metal,100
+cologne electronic,electro,100
+football,football,100
+quebec punk,punk,100
+swedish hardcore,hardcore,100
+musica crista reformada,reformada,100
+german dark minimal techno,techno,100
+trio huasteco,huasteco,96
+musica hondurena,hondurena,100
+atmospheric sludge,sludge,82
+slavic metal,metal,100
+british math rock,rock,100
+fast melodic punk,punk,100
+turkish reggae,reggae,100
+sega,sega,100
+adoracion pentecostal,pentecostal,100
+early music ensemble,ensemble,100
+texas hardcore,hardcore,100
+folk black metal,black metal,91
+french classical piano,classical,100
+sinhala rap,hip hop,100
+indie veneto,indie,91
+nitzhonot,nitzhonot,100
+shamisen,shamisen,100
+cameroonian pop,pop,100
+chamber orchestra,orchestra,100
+bahamian pop,pop,100
+german prog,prog,100
+power thrash,thrash,100
+ilahiler,ilahiler,100
+pinoy edm,edm,100
+experimental electronic,electro,100
+ukulele,ukulele,100
+gyerekdalok,gyerekdalok,95
+gamecore,gamecore,100
+kannada hip hop,hip hop,42
+drill dominicano,drill,86
+derby indie,indie,100
+belgian new wave,wave,100
+t-pop girl group,pop,100
+nordic ambient,ambient,100
+rap tico,hip hop,100
+milwaukee hip hop,hip hop,100
+punk rock italiano,punk,100
+musikkorps,musikkorps,96
+wyoming indie,indie,100
+yakuza,yakuza,98
+classical cello,classical,100
+swiss indie folk,folk,100
+therapy,hip hop,100
+british choir,choir,100
+northern irish punk,punk,100
+vegan straight edge,edge,100
+punta,punta,100
+hindustani instrumental,instrumental,100
+musica paranaense,paranaense,100
+mpb gospel,gospel,100
+panpipe,panpipe,90
+slam death metal,death metal,100
+folklore venezolano,folk,98
+japanese experimental,experimental,100
+marimba de guatemala,guatemala,100
+swiss folk,folk,100
+british experimental,experimental,100
+belgian modern jazz,jazz,100
+gypsy fusion,fusion,100
+ambient black metal,black metal,100
+uma musume,musume,100
+trot,trot,100
+psychedelic blues-rock,rock,90
+american 21st century classical,classical,100
+nz metal,metal,100
+dancehall guyanaise,dancehall,100
+israeli techno,techno,97
+maine indie,indie,100
+northeast indian indie,indie,100
+canadian indigenous hip hop,hip hop,100
+norwegian alternative rock,rock,100
+harpsichord,harpsichord,100
+classic punjabi pop,pop,100
+cork indie,indie,70
+kansai indie,indie,100
+tech trance,trance,100
+polyphony,polyphony,100
+chinese soundtrack,soundtrack,100
+hmong pop,pop,100
+breton folk,folk,99
+punta rock,rock,100
+brazilian indie rock,rock,100
+psychedelic folk rock,rock,100
+french garage rock,rock,100
+greek psychedelic rock,rock,100
+lezginka,lezginka,100
+uppsala indie,indie,100
+jig and reel,reel,100
+chattanooga indie,indie,99
+cleveland indie,indie,100
+ny roots,roots,100
+indie folk italiano,folk,99
+kuduro,kuduro,100
+neo-psicodelia brasileira,brasileira,100
+bisaya rap,hip hop,100
+canadian comedy,comedy,100
+afro psych,psych,100
+kalmar indie,indie,100
+grunge pop,grunge,100
+language,language,100
+technical black metal,black metal,100
+nephop,nephop,100
+neo kyma,kyma,96
+lafayette indie,indie,98
+czsk reggae,reggae,100
+deep liquid,liquid,100
+anglican liturgy,liturgy,95
+orquesta tipica,tipica,100
+hungarian indie,indie,100
+italian renaissance,renaissance,100
+street punk espanol,punk,100
+west virginia indie,indie,100
+british dance band,band,100
+deep contemporary country,country,100
+lancaster pa indie,indie,100
+antilliaanse rap,hip hop,100
+hungarian underground rap,hip hop,100
+african electronic,electro,100
+irish rebel song,song,100
+zurich indie,indie,100
+belgian jazz,jazz,100
+zydeco,zydeco,100
+leipzig indie,indie,100
+swedish psychedelic rock,rock,100
+neo-pagan,neo-pagan,100
+ecuadorian alternative rock,rock,100
+slushwave,slushwave,100
+new orleans americana,americana,100
+experimental techno,techno,100
+lldm,lldm,100
+neurostep,neurostep,100
+faroese pop,pop,100
+abstract idm,idm,100
+musica michoacana,michoacana,100
+dutch blues,blues,100
+traditional soul,soul,100
+punk melodico chileno,punk,100
+german dnb,drum and bass,100
+polish jazz,jazz,100
+sambass,sambass,100
+jazz catala,jazz,99
+sitar,sitar,100
+kazakh indie,indie,93
+musica baiana,baiana,100
+japanese edm,edm,98
+japanese boom bap,bap,100
+minneapolis metal,metal,100
+canadian garage rock,rock,100
+techno rave,techno,100
+lancashire indie,indie,100
+zambian hip hop,hip hop,100
+indonesian post-hardcore,post-hardcore,100
+string band,band,94
+yugoslav new wave,wave,100
+boogie,boogie,100
+irish dance,dance,100
+doomcore,doomcore,100
+greek rock,rock,100
+canadian psychedelic,psychedelic,100
+brazilian techno,techno,100
+precure,precure,100
+american romanticism,romanticism,100
+skramz,skramz,79
+country boogie,country,100
+musica evangelica instrumental,instrumental,100
+mgp,mgp,100
+czech indie,indie,100
+deep brazilian pop,pop,100
+experimental indie,indie,100
+winnipeg hip hop,hip hop,100
+modern psychedelic folk,folk,100
+tassie indie,indie,100
+brazilian dnb,drum and bass,100
+dronescape,dronescape,100
+kamen rider,rider,100
+punk tuga,punk,100
+musica potiguar,potiguar,100
+panamanian rock,rock,100
+east anglia indie,indie,100
+japanese idm,idm,100
+jazz violin,jazz,100
+synthwave brasileiro,brasileiro,100
+electronica peruana,electro,100
+trinidadian reggae,reggae,100
+arkansas indie,indie,100
+eritrean pop,pop,100
+swedish prog,prog,100
+latino comedy,latin,95
+baptist gospel,gospel,100
+tamil worship,worship,100
+disney polska,ska,100
+rap portuense,hip hop,93
+minneapolis punk,punk,100
+shoegaze brasileiro,brasileiro,100
+south african r&amp;b,r&amp;b,100
+nordnorsk rap,hip hop,100
+chinese indie pop,pop,100
+indonesian punk,punk,100
+humppa,humppa,100
+uk stoner rock,rock,100
+corsican folk,folk,100
+kannada pop,pop,100
+acid trance,trance,100
+deep ragga,ragga,90
+belgian electronic,electro,100
+junior songfestival,songfestival,100
+hardcore punk espanol,punk,100
+industrial techno,techno,100
+singaporean hip hop,hip hop,100
+hindustani vocal,vocal,79
+progressive alternative,alternative,100
+french post-punk,punk,100
+maine hip hop,hip hop,100
+bomba y plena,plena,100
+euskal indie,ska,100
+trad quebecois,quebecois,100
+german electronica,electro,100
+spanish classical,classical,100
+russian old school hip hop,hip hop,100
+japanese worship,worship,100
+fijian pop,pop,100
+german black metal,black metal,98
+nordic contemporary classical,classical,97
+atlantic canada hip hop,hip hop,100
+traditional scottish folk,folk,100
+iowa hip hop,hip hop,100
+essex indie,indie,86
+argentine hardcore,hardcore,100
+atmospheric post-metal,metal,100
+street band,band,100
+deep dance pop,pop,100
+lebanese indie,indie,100
+musica portuguesa contemporanea,contemporanea,100
+kurdish rock,rock,100
+taiwan rock,rock,100
+deep metalcore,metalcore,100
+uk noise rock,rock,100
+muzika l'yeladim,l'yeladim,100
+german melodeath,melodeath,100
+galego,galego,100
+nordic classical piano,classical,94
+indie rock colombiano,rock,100
+scottish hip hop,hip hop,100
+chaabi marocain,marocain,100
+italian folk,folk,100
+turkce trap metal,trap,100
+forest psy,psy,100
+black death,death,100
+experimental club,club,100
+hungarian techno,techno,100
+luxembourgian indie,indie,100
+guitarra clasica,clasica,100
+dc indie,indie,100
+ghettotech,ghettotech,63
+deep german indie,indie,100
+rock tico,rock,87
+ruta destroy,destroy,100
+second line,line,100
+mongolian pop,pop,100
+zim urban groove,groove,100
+vintage chanson,chanson,100
+isle of wight indie,indie,100
+singaporean electronic,electro,100
+japanese house,house,100
+calgary indie,indie,100
+korean soundtrack,soundtrack,100
+swedish blues,blues,100
+uruguayan indie,indie,96
+cornwall indie,indie,96
+austin rock,rock,100
+zambian pop,pop,100
+musique acadienne,acadienne,100
+magyar mulatos,mulatos,100
+metal gotico,metal,90
+salsa cristiana,salsa,100
+experimental guitar,guitar,100
+ghanaian gospel,gospel,97
+puglia indie,indie,100
+dancehall colombiano,dancehall,100
+romanian folk,folk,100
+birdsong,birdsong,100
+punk galego,punk,100
+norrbotten indie,indie,100
+vlaamse cabaret,cabaret,100
+pinoy metal,metal,100
+crack rock steady,rock,100
+malaysian punk,punk,100
+celtic harp,harp,100
+cosmic black metal,black metal,100
+bangladeshi rock,rock,100
+christian dance,dance,76
+gothic post-punk,punk,100
+denver metal,metal,100
+martial industrial,industrial,100
+australian experimental,experimental,100
+bagpipe,bagpipe,59
+bagpipe marching band,band,100
+japanese psychedelic rock,rock,100
+canadian experimental,experimental,59
+noise punk,punk,100
+guidance,guidance,100
+8-bit,8-bit,100
+disney svenska,ska,100
+polish contemporary classical,classical,100
+cuento infantile,infantile,100
+mallet,mallet,100
+indonesian death metal,death metal,100
+cabaret,cabaret,100
+modern jangle pop,pop,100
+deep happy hardcore,hardcore,100
+lo star,star,100
+irish drill,drill,100
+tango cancion,cancion,100
+indonesian hardcore,hardcore,88
+vintage italian pop,pop,100
+classical soprano,classical,100
+navajo,navajo,100
+deep funk ostentacao,funk,100
+albany ny indie,indie,100
+gospel italiano,gospel,100
+mindfulness,mindfulness,56
+neo metal,metal,100
+baltic post-punk,punk,98
+sefardi,sefardi,100
+metal colombiano,metal,100
+bolivian rock,rock,100
+deep psychobilly,psychobilly,100
+estonian rock,rock,100
+dreampunk,punk,100
+western saharan folk,folk,100
+milwaukee indie,indie,31
+gundam,gundam,97
+musique tahitienne,tahitienne,100
+english renaissance,renaissance,100
+norwegian prog,prog,100
+deep progressive rock,rock,100
+classic danish rock,rock,88
+lund indie,indie,100
+atmospheric post-rock,rock,100
+psychedelic space rock,rock,100
+tijuana indie,indie,100
+canadian post-punk,punk,100
+uwielbienie,uwielbienie,100
+dresden indie,indie,81
+wisconsin indie,indie,100
+muzica copii,copii,100
+macedonian folk,folk,100
+montana indie,indie,98
+indie cristao,indie,100
+pei indie,indie,100
+garage punk blues,punk,100
+swiss alternative rock,rock,100
+sami,sami,100
+light music,music,100
+xhosa,xhosa,100
+sega mauricien,mauricien,100
+experimental synth,synth,100
+austro-german modernism,modernism,100
+classic nepali pop,pop,100
+guitarra argentina,argentina,100
+ragtime,ragtime,100
+finnish doom metal,doom metal,100
+israeli folk,folk,100
+canadian psychedelic rock,rock,100
+south african deep house,house,100
+maltese pop,pop,100
+swiss singer-songwriter,singer-songwriter,100
+muzica etno,etno,100
+deep funk,funk,100
+musica valenciana,valenciana,100
+mumbai indie,indie,100
+maskandi,ska,100
+trap cristiano,trap,100
+experimental psych,psych,97
+new england metal,metal,100
+chinese classical piano,classical,100
+cornetas y tambores,tambores,100
+gotlandsk musik,musik,99
+japanese techno,techno,100
+indian underground rap,hip hop,100
+canadian post-rock,rock,100
+cantaditas,cantaditas,86
+candomble,candomble,100
+dark ambient,ambient,78
+deep progressive trance,trance,100
+post-disco soul,soul,100
+massage,massage,100
+musique pour enfant quebecois,quebecois,99
+yakut pop,pop,100
+macross,macross,100
+virginia indie,indie,100
+atmospheric doom,doom,100
+classical harp,classical,100
+folklore veracruzano,folk,100
+orthodox chant,chant,100
+swedish post-hardcore,post-hardcore,87
+kansas indie,indie,99
+powwow,powwow,100
+chinese instrumental,instrumental,100
+musica goiana,goiana,100
+indie tico,indie,100
+swedish underground rap,hip hop,100
+south african country,country,83
+afrobeat fusion,fusion,57
+komedi,komedi,98
+finnish progressive metal,metal,100
+russian experimental electronic,electro,100
+hip hop boliviano,hip hop,100
+west yorkshire indie,indie,98
+vintage broadway,broadway,54
+pop catracho,pop,100
+finnish soul,soul,98
+cybergrind,cybergrind,100
+native american hip hop,hip hop,100
+marathi devotional,devotional,100
+chinese folk,folk,100
+old school hard trance,trance,42
+deep neofolk,folk,100
+stuttgart indie,indie,100
+dark psytrance,trance,100
+early american folk,folk,100
+pittsburgh metal,metal,100
+vintage cantonese pop,pop,100
+euskal metal,ska,100
+sevilla indie,indie,100
+bansuri,bansuri,80
+australian blues,blues,100
+contemporary folk,folk,100
+kansas hip hop,hip hop,100
+galician folk,folk,100
+musica occitana,occitana,94
+jazz flute,jazz,100
+punk colombiano,punk,94
+oberkrainer,oberkrainer,100
+goralski,goralski,70
+icelandic post-punk,punk,100
+romanian electronic,electro,100
+rautalanka,rautalanka,100
+pakistani rock,rock,100
+funeral doom,doom,100
+forro instrumental,instrumental,100
+moderne ludovky,ludovky,73
+german stoner rock,rock,100
+boston electronic,electro,100
+super sentai,sentai,100
+surinamese hip hop,hip hop,100
+german street punk,punk,100
+pre-war blues,blues,100
+french dnb,drum and bass,98
+nohay,nohay,100
+japanese girl punk,punk,81
+hypnosis,hypnosis,95
+musica mallorquina,mallorquina,100
+blues mexicano,blues,100
+gambian pop,pop,100
+bossa nova jazz,jazz,100
+pretty rhythm,rhythm,100
+street punk,punk,100
+japanese traditional,traditional,100
+finlandssvenska musik,ska,100
+capoeira,capoeira,100
+barnalog,barnalog,100
+madrigal,madrigal,98
+odia pop,pop,100
+cambodian pop,pop,100
+weightless,weightless,100
+danish black metal,black metal,100
+rap chretien,hip hop,100
+tzadik,tzadik,100
+taiwan instrumental,instrumental,100
+dutch jazz,jazz,100
+belgian death metal,death metal,100
+german classical piano,classical,100
+son cubano clasico,clasico,100
+lawrence ks indie,indie,100
+lithuanian indie,indie,100
+latvian indie,indie,100
+khayal,khayal,100
+deep folk metal,metal,100
+rock campineiro,rock,100
+serbian electronic,electro,100
+rock goiano,rock,100
+arizona punk,punk,100
+caucasian classical,classical,100
+finnish electro,electro,100
+military cadence,cadence,100
+malmo indie,indie,100
+trio batak,batak,100
+nijisanji,nijisanji,75
+mbira,mbira,100
+folklore cuyano,folk,74
+xinyao,xinyao,56
+ilocano pop,pop,100
+southeast asian post-rock,rock,100
+indie singer-songwriter,indie,68
+epic doom,doom,100
+modern big band,band,100
+italian post punk,punk,88
+telugu indie,indie,100
+uilleann pipes,pipes,100
+south dakota indie,indie,100
+vinahouse,house,100
+circus,circus,88
+geek folk,folk,98
+mexican tech house,house,82
+solomon islands pop,pop,100
+spanish jazz,jazz,100
+vapor house,house,99
+friese muziek,muziek,100
+american choir,choir,100
+ukrainian metal,metal,100
+musica mapuche,mapuche,100
+russian folk metal,metal,100
+old school nederhop,nederhop,100
+indonesian deathcore,deathcore,100
+swedish experimental,experimental,100
+russian romance,romance,100
+indorock,rock,84
+norman ok indie,indie,100
+memphis indie,indie,100
+japanese melodic punk,punk,100
+somali pop,pop,79
+detske pisnicky,pisnicky,98
+finnish progressive rock,rock,100
+macedonian pop,pop,100
+turkish post-punk,punk,86
+talentos brasileiros,brasileiros,100
+south african electronic,electro,100
+serialism,serialism,71
+austrian black metal,black metal,100
+semarang indie,indie,95
+lagu sabahan,sabahan,100
+sinhala indie,indie,100
+violao classico,classico,100
+cancoes infantis,infantis,100
+greek black metal,black metal,100
+house argentino,house,100
+yemeni pop,pop,100
+koligeet,koligeet,100
+italian death metal,death metal,100
+slovak electronic,electro,98
+cavernous death metal,death metal,100
+swiss worship,worship,100
+cascadian black metal,black metal,100
+brazilian death metal,death metal,100
+balfolk,folk,100
+brazilian tech house,house,96
+rogaland indie,indie,100
+experimental indie rock,rock,67
+hampton roads indie,indie,100
+medieval,medieval,98
+american oi,oi,100
+deep east coast hip hop,hip hop,100
+bemani,bemani,100
+polish folk metal,metal,100
+polish hardcore,hardcore,81
+post-punk mexicano,punk,100
+portuguese metal,metal,100
+irish banjo,banjo,100
+bahai,bahai,88
+chaotic black metal,black metal,100
+jazz venezolano,jazz,100
+musica indigena mexicana,mexicana,100
+ukrainian experimental,experimental,99
+rwandan pop,pop,100
+gospel soul,soul,100
+emocore,emo,100
+faroese indie,indie,100
+musica mocambicana,mocambicana,100
+concert band,band,100
+sierra leonean pop,pop,100
+london on indie,indie,100
+malayalam hip hop,hip hop,80
+uk rockabilly,rock,100
+a3,a3,100
+malagasy pop,pop,97
+pornogrind,pornogrind,100
+rajasthani pop,pop,100
+thai instrumental,instrumental,100
+estonian electronic,electro,71
+hard rock mexicano,rock,100
+contrabass,contrabass,100
+marathi traditional,traditional,99
+turkish classical performance,classical,98
+lagu aceh,aceh,82
+libyan pop,pop,100
+new york death metal,death metal,100
+springfield mo indie,indie,100
+washboard,washboard,77
+lustrum,lustrum,100
+tijuana electronic,electro,74
+lagu bali,bali,100
+prepared piano,piano,100
+japanese bedroom pop,pop,92
+scratch,scratch,100
+norwegian death metal,death metal,100
+szanty,szanty,65
+tribute,tribute,100
+uae indie,indie,81
+portuguese folk,folk,100
+go-go,go-go,100
+gospel singers,gospel,100
+joropo,joropo,100
+voidgrind,voidgrind,100
+swiss black metal,black metal,100
+german death metal,death metal,100
+new wave of osdm,osdm,100
+klapa,klapa,80
+indian jazz,jazz,100
+lounge house,house,100
+caracas indie,indie,100
+pashto pop,pop,100
+underground boom bap,bap,100
+neo-crust,neo-crust,100
+polish thrash metal,thrash metal,100
+musique touareg,touareg,49
+romanian indie,indie,75
+traditional english folk,folk,100
+italian post-rock,rock,100
+southern china indie,indie,100
+italian punk,punk,100
+death industrial,industrial,100
+musica eletronica brasileira,brasileira,100
+forro manauara,manauara,100
+czech electronic,electro,100
+musica antigua,antigua,100
+chill baile,baile,100
+hawaiian indie,indie,100
+slovak folk,folk,100
+bosnian indie,indie,100
+swedish post-punk,punk,100
+musica de intervencao,intervencao,100
+german blues,blues,100
+knoxville indie,indie,100
+nordic shoegaze,shoegaze,89
+canadian death metal,death metal,100
+hengelliset laulut,laulut,100
+taiwanese indigenous,indigenous,100
+rock progressif francais,rock,100
+dutch classical piano,classical,100
+military band,band,100
+gospel rap,hip hop,100
+brazilian blues,blues,100
+russian post-rock,rock,98
+finnish worship,worship,92
+psych gaze,gaze,82
+swiss jazz,jazz,100
+beninese pop,pop,100
+sungura,sungura,81
+electronica cristiana,electro,100
+manitoba country,country,76
+argentine jazz,jazz,100
+zenonesque,zenonesque,100
+drill tuga,drill,100
+swedish rock-and-roll,rock,100
+danish punk,punk,100
+breaks,breaks,99
+marimba mexicana,mexicana,100
+irish classical,classical,100
+dundee indie,indie,100
+cymraeg,cymraeg,89
+rap metalcore,metalcore,100
+erotica,erotica,100
+west african jazz,jazz,100
+classic afrobeat,afrobeat,91
+polyphonies corses,corses,100
+adelaide indie,indie,100
+disney dansk,dansk,73
+remix product,product,100
+detske pesnicky,pesnicky,100
+northeast indian hip hop,hip hop,100
+slovenian rock,rock,100
+chinese classical performance,classical,98
+bangalore indie,indie,100
+umea hardcore,hardcore,72
+liechtenstein,liechtenstein,95
+barbershop,barbershop,100
+telugu devotional,devotional,90
+dainuojamoji poezija,poezija,78
+classical trumpet,classical,100
+prog quebec,quebec,100
+jalsat,jalsat,100
+polish modern jazz,jazz,100
+tamil devotional,devotional,69
+chinese electronic,electro,100
+classic moroccan pop,pop,100
+nova musica maranhense,maranhense,89
+trash rock,rock,100
+canadian rockabilly,rock,100
+brasilia indie,indie,100
+klezmer,klezmer,100
+rock gotico,rock,100
+indie fuzzpop,pop,100
+ukrainian classical piano,classical,100
+makina,makina,100
+early music choir,choir,99
+african percussion,percussion,91
+finnish black metal,black metal,100
+bisrock,rock,100
+indie michoacano,indie,100
+kenyan hip hop,hip hop,100
+ukhc,ukhc,100
+hi-tech,hi-tech,100
+dunedin sound,sound,94
+seattle metal,metal,97
+canti alpini,alpini,100
+rap gaucho,hip hop,100
+rap tuga underground,hip hop,99
+traditional bluegrass,country,100
+blackened crust,crust,100
+norwegian doom metal,doom metal,100
+italian metalcore,metalcore,91
+rock paraibano,rock,100
+canadian drill,drill,100
+oslo indie,indie,100
+d-beat,d-beat,100
+italian post-hardcore,post-hardcore,100
+darbuka,darbuka,100
+french hardcore,hardcore,95
+musica pernambucana,pernambucana,100
+indonesian emo rap,emo,59
+progressive thrash,thrash,100
+jazz accordion,jazz,100
+new wave of speed metal,metal,100
+musica sul-mato-grossense,sul-mato-grossense,100
+faroese rock,rock,100
+musica jibara,jibara,100
+louisville underground,underground,100
+noisecore,noisecore,100
+electronica venezuela,electro,100
+musica calabrese,calabrese,100
+australian classical,classical,99
+swansea indie,indie,100
+bosnian electronic,electro,100
+russian power metal,power metal,100
+bass trip,trip,100
+deep psytrance,trance,100
+disney norsk,norsk,100
+swiss techno,techno,100
+symphonic melodic death metal,death metal,100
+icelandic metal,metal,100
+finnish folk,folk,60
+industrial hardcore,hardcore,100
+kelowna bc indie,indie,100
+poznan indie,indie,100
+russian hardcore,hardcore,100
+uk beatdown,beatdown,100
+chilean metal,metal,100
+nyc metal,metal,100
+barnasogur,barnasogur,100
+gnawa,gnawa,100
+hip hop galsen,hip hop,100
+erhu,erhu,100
+uk diy punk,punk,100
+coventry indie,indie,100
+rock cearense,rock,100
+singaporean indie,indie,100
+harmonica jazz,jazz,100
+orquesta tropical,tropical,100
+chapman stick,stick,100
+aarhus indie,indie,100
+heavy gothic rock,rock,67
+glitch beats,beats,100
+deep ambient,ambient,100
+reggae tico,reggae,99
+musique mandingue,mandingue,100
+polish folk,folk,100
+bangladeshi indie,indie,64
+estonian indie,indie,100
+anthem,anthem,100
+baja indie,indie,100
+irish techno,techno,100
+italian jazz fusion,jazz,100
+dutch black metal,black metal,68
+fado antigo,antigo,100
+dessin anime,anime,100
+japanese progressive house,house,100
+drone ambient,ambient,100
+spanish electropop,electro,100
+german post-punk,punk,100
+scottish americana,americana,100
+japanese death metal,death metal,100
+college marching band,band,100
+musique mariage algerien,algerien,100
+indiana indie,indie,100
+cornish folk,folk,100
+musica tradicional dominicana,dominicana,100
+italian mandolin,mandolin,100
+dutch experimental electronic,electro,100
+brass ensemble,ensemble,100
+sinogaze,sinogaze,100
+ukrainian post-punk,punk,100
+denver rap,hip hop,100
+oth indie,indie,100
+japanese post-punk,punk,100
+australian death metal,death metal,100
+dutch death metal,death metal,100
+guam indie,indie,100
+yorkshire folk,folk,99
+spanish indie rock,rock,100
+jug band,band,99
+psytech,psytech,98
+kaseko,kaseko,88
+birthday,birthday,100
+norwegian experimental,experimental,77
+italian pop punk,punk,100
+tibetan mantra,mantra,100
+hindi worship,worship,100
+finnish metalcore,metalcore,100
+throat singing,singing,100
+tennessee experimental,experimental,100
+rap ecuatoriano,hip hop,100
+murga,murga,100
+boy pop,pop,100
+syrian hip hop,hip hop,100
+paraguayan indie,indie,100
+finnish blues,blues,53
+deep discofox,discofox,100
+french oi,oi,100
+mongolian hip hop,hip hop,100
+ukrainian folk,folk,100
+dub poetry,poetry,100
+basel indie,indie,82
+protest folk,folk,100
+deep freestyle,freestyle,100
+pasodobles,pasodobles,100
+duduk,duduk,100
+dutch musical,musical,100
+outer hip hop,hip hop,100
+progressive black metal,black metal,99
+technical grindcore,grindcore,100
+latvian rock,rock,74
+togolese pop,pop,100
+contemporary choir,choir,100
+dansk lovsang,lovsang,100
+balkan folk metal,metal,100
+indie campechano,indie,100
+muzica usoara,usoara,96
+naat,naat,100
+rap salvadoreno,hip hop,95
+kenyan alternative,alternative,94
+finnish modern jazz,jazz,88
+limerick indie,indie,100
+danish death metal,death metal,100
+bulgarian electronic,electro,89
+old school uk hip hop,hip hop,100
+whale song,song,79
+tamil indie,indie,75
+indie salvadoreno,indie,100
+aikatsu,aikatsu,90
+mezmur,mezmur,100
+franco-flemish school,school,100
+bal-musette,bal-musette,100
+fo jing,jing,100
+viet instrumental,instrumental,100
+classical mandolin,classical,100
+german rockabilly,rock,99
+haitian dance,dance,100
+panamanian indie,indie,100
+backing track,track,100
+carnatic instrumental,instrumental,100
+kashmiri pop,pop,100
+canadian black metal,black metal,100
+modular techno,techno,100
+electronicore,electro,100
+rock caipira,rock,100
+north dakota indie,indie,100
+greenlandic pop,pop,100
+cardiff indie,indie,100
+deep progressive house,house,96
+nisiotika,nisiotika,100
+shakuhachi,shakuhachi,100
+portuguese indie rock,rock,71
+post-punk latinoamericano,punk,100
+jewish a capella,capella,100
+rap catarinense,hip hop,100
+avant-garde black metal,black metal,100
+baroque ensemble,classical,100
+bouyon,bouyon,100
+icelandic black metal,black metal,100
+grunneger muziek,muziek,85
+norwegian hardcore,hardcore,84
+slovak indie,indie,100
+german post-rock,rock,100
+gospel blues,blues,94
+native american spiritual,spiritual,100
+indie cantabria,indie,100
+mexican death metal,death metal,99
+screamocore,screamo,100
+deep german punk,punk,99
+rap abc paulista,hip hop,100
+psychedelic jazz fusion,jazz,100
+honky-tonk piano,piano,100
+west-vlaamse hip hop,hip hop,100
+norwegian psychedelic,psychedelic,100
+icelandic jazz,jazz,100
+mexican hardcore,hardcore,100
+fado de coimbra,coimbra,100
+steelpan,steelpan,100
+heavy psych,psych,100
+aggro chileno,chileno,100
+kuduro antigo,antigo,100
+portuguese jazz,jazz,99
+classical saxophone,classical,100
+japanese classical performance,classical,100
+macedonian electronic,electro,100
+finnish jazz,jazz,100
+gospel drill,drill,100
+slovenian metal,metal,91
+cumbia funk,cumbia,93
+bluegrass fiddle,country,100
+musica etnica,etnica,99
+blues-rock guitar,rock,100
+comptine africaine,africaine,100
+icelandic punk,punk,100
+finnish post-punk,punk,96
+bloco,bloco,79
+musica andorra,andorra,100
+persian neo-traditional,neo-traditional,61
+minimal dubstep,dubstep,100
+garage rock mexicano,rock,100
+progressive technical death metal,death metal,100
+steel guitar,guitar,100
+belgian contemporary classical,classical,100
+michigan folk,folk,100
+polka,polka,100
+austrian techno,techno,100
+banda militar,militar,100
+ambient industrial,ambient,100
+nueva ola peruana,peruana,100
+italian experimental,experimental,73
+rio grande do sul indie,indie,99
+jazz orchestra,jazz,99
+taiwan classical performance,classical,100
+progressive breaks,breaks,100
+deep deep house,house,100
+epic black metal,black metal,78
+death doom,doom,100
+peruvian metal,metal,100
+xitsonga pop,pop,97
+deep downtempo fusion,fusion,100
+classical jazz fusion,jazz,100
+swahili gospel,gospel,100
+son jarocho,jarocho,100
+basque folk,folk,100
+thai metal,metal,100
+actors,actors,100
+medimeisterschaften,medimeisterschaften,100
+israeli metal,metal,100
+salay,salay,100
+burundian pop,pop,100
+deep melodic death metal,death metal,100
+chennai indie,indie,100
+hard glam,glam,100
+belgian blues,blues,97
+musica cearense,cearense,100
+mexican traditional,traditional,91
+metal catala,metal,92
+deep g funk,funk,100
+deep melodic hard rock,rock,100
+portuguese black metal,black metal,72
+georgian pop,pop,73
+baltic folk,folk,100
+maracatu,maracatu,70
+mexican classical,classical,100
+prank,prank,100
+portuguese techno,techno,97
+viola da gamba,gamba,100
+old-time fiddle,fiddle,100
+punk mexicano,punk,96
+noel quebecois,quebecois,100
+industrial black metal,black metal,100
+samba gospel,gospel,100
+italogaze,italogaze,100
+zim hip hop,hip hop,60
+kyrgyz pop,pop,100
+acousmatic,acousmatic,100
+malayalam worship,worship,89
+wellington indie,indie,91
+bornehistorier,bornehistorier,100
+frankfurt indie,indie,97
+rap potiguar,hip hop,94
+finnish idol pop,pop,98
+spanish progressive rock,rock,100
+geinin song,song,100
+cocuk masallari,masallari,65
+japanoise,japanoise,100
+derry indie,indie,99
+traditional rockabilly,rock,100
+australian jazz,jazz,100
+scottish fiddle,fiddle,100
+maloya,maloya,100
+metal paranaense,metal,100
+deep new wave,wave,100
+jazzcore,jazz,100
+merida indie,indie,100
+mongolian folk,folk,100
+scottish indie folk,folk,100
+fallen angel,angel,100
+algerian folk,folk,100
+russian classical piano,classical,100
+choro contemporaneo,contemporaneo,98
+greek techno,techno,100
+classic eurovision,eurovision,73
+mizo pop,pop,100
+missouri indie,indie,100
+free folk,folk,100
+polish psychedelia,psychedelia,100
+juju,juju,99
+string quartet,quartet,100
+indie pop rock,rock,100
+mexican experimental,experimental,100
+finnish tango,tango,100
+idol game,game,100
+muzica populara,pop,100
+swedish fiddle,fiddle,100
+taiwanese pop,pop,100
+australian techno,techno,95
+colombian death metal,death metal,100
+detski pesnichki,pesnichki,100
+german hardcore,hardcore,100
+black speed metal,metal,100
+khmer,khmer,100
+indian percussion,percussion,100
+kritika,kritika,100
+musica colombiana instrumental,instrumental,96
+power noise,noise,100
+swiss country,country,100
+brass band brasileiro,brasileiro,93
+punjabi folk,folk,97
+japanese concert band,band,91
+scottish gaelic folk,folk,66
+telugu worship,worship,100
+rap paraguayo,hip hop,100
+italian library music,music,77
+iowa indie,indie,100
+south african metal,metal,100
+musica wixarika,wixarika,100
+cape breton folk,folk,100
+belgian black metal,black metal,98
+bandolim,bandolim,100
+techno argentina,techno,99
+myanmar indie,indie,89
+indie canario,indie,100
+siberian folk,folk,100
+rap toscana,hip hop,100
+medway sound,sound,100
+telugu hip hop,hip hop,78
+bohemian baroque,classical,100
+dusseldorf indie,indie,100
+folk siciliana,folk,100
+triangle indie,indie,100
+estonian folk,folk,98
+greek folk,folk,100
+spanish renaissance,renaissance,98
+taiwan graduation song,song,99
+salzburg indie,indie,100
+south carolina metal,metal,100
+mluvene slovo,slovo,80
+historically informed performance,performance,100
+gabonese pop,pop,100
+via,via,100
+indian violin,violin,74
+assyrian pop,pop,100
+gaita,gaita,100
+yowapeda,yowapeda,100
+nz hardcore,hardcore,100
+unblack metal,black metal,100
+greek indie rock,rock,100
+austrian jazz,jazz,94
+hungarian classical performance,classical,100
+chaabi algerien,algerien,100
+arpa grande,grande,90
+christian deathcore,deathcore,100
+ambient fusion,ambient,100
+french stoner rock,rock,88
+classic tunisian pop,pop,100
+tavern,tavern,100
+psicodelia mexicana,mexicana,95
+indian techno,techno,100
+musica campista,campista,100
+oulu indie,indie,98
+indian metal,metal,100
+dutch punk,punk,100
+flick hop,hop,100
+jain bhajan,bhajan,100
+concertina,concertina,100
+garhwali pop,pop,100
+forest black metal,black metal,100
+australian post-punk,punk,100
+danish experimental,experimental,93
+houston indie,indie,100
+san antonio indie,indie,96
+cambodian rock,rock,100
+luxembourgian pop,pop,93
+finnish psychedelic rock,rock,93
+guzheng,guzheng,90
+australian post-rock,rock,97
+irish accordion,accordion,100
+ambient dub techno,techno,100
+korean metal,metal,100
+fussball,fussball,100
+italian classical piano,classical,100
+arpa paraguaya,paraguaya,98
+chant basque,basque,100
+melodic doom,doom,100
+latvian electronic,electro,100
+zim gospel,gospel,100
+russian contemporary classical,classical,100
+tsukiuta,tsukiuta,100
+music hall,hall,100
+turkmen pop,pop,100
+musica indigena brasileira,brasileira,100
+lagu manado,manado,100
+balinese traditional,traditional,100
+gamelan,gamelan,100
+vocal ensemble,ensemble,47
+nyckelharpa,nyckelharpa,100
+traditional funk,funk,97
+montana roots,roots,100
+covertrance,trance,100
+swedish classical,classical,100
+grunge revival,grunge,96
+aberdeen indie,indie,98
+musica piauiense,piauiense,100
+danish classical,classical,100
+croatian metal,metal,100
+rap euskera,hip hop,100
+serbian alternative rock,rock,100
+israeli punk,punk,100
+haur kantak,kantak,100
+nova musica amazonense,amazonense,100
+dark progressive house,house,100
+british brass band,band,73
+polish post-rock,rock,100
+classic bulgarian pop,pop,100
+emoviolence,emo,100
+university choir,choir,100
+downtempo fusion,fusion,78
+irish trap,trap,100
+pune indie,indie,100
+arab metal,metal,100
+bern indie,indie,100
+black sludge,sludge,100
+skiffle,skiffle,98
+classic psychedelic rock,rock,100
+musique peule,peule,100
+musica sergipana,sergipana,100
+neo-industrial rock,rock,100
+bisaya indie,indie,100
+hjemmesnekk,hjemmesnekk,100
+canadian shoegaze,shoegaze,73
+spanish experimental,experimental,100
+st petersburg fl indie,indie,100
+german renaissance,renaissance,100
+rock alagoano,rock,97
+polish ambient,ambient,100
+korean jazz,jazz,100
+chinese post-rock,rock,100
+latin surf rock,rock,100
+west virginia metal,metal,100
+indie paraense,indie,100
+barrelhouse piano,house,100
+austrian orchestra,orchestra,100
+lowlands hardcore,hardcore,100
+burkinabe pop,pop,100
+welsh folk,folk,100
+norwegian folk,folk,100
+modern string quartet,quartet,100
+radio symphony,classical,100
+firenze indie,indie,100
+finnish rockabilly,rock,95
+skweee,skweee,95
+mexican thrash metal,thrash metal,100
+taiwan electronic,electro,92
+swedish pop punk,punk,100
+musica purepecha,purepecha,100
+northwest china indie,indie,100
+hong kong tv drama,drama,100
+canberra indie,indie,100
+irish underground rap,hip hop,100
+french post-rock,rock,100
+tanzlmusi,tanzlmusi,100
+new hampshire indie,indie,97
+canadian classical piano,classical,100
+metal ecuatoriano,metal,99
+ngoni,ngoni,100
+lovecraftian metal,metal,100
+classical clarinet,classical,100
+drone rock,rock,100
+chechen pop,pop,99
+ritual ambient,ambient,100
+hammered dulcimer,dulcimer,100
+finnish experimental,experimental,100
+spanish post-rock,rock,100
+cajun,cajun,100
+baton rouge indie,indie,91
+blackened hardcore,hardcore,100
+myanmar hip hop,hip hop,100
+jazz tico,jazz,100
+deep jazz fusion,jazz,100
+jazz chileno,jazz,63
+bogor indie,indie,100
+german orchestra,orchestra,100
+nubian traditional,traditional,100
+vintage norwegian pop,pop,100
+galician indie,indie,100
+uk post-metal,metal,100
+avant-rock,rock,100
+trondheim indie,indie,100
+polish experimental electronic,electro,100
+classical organ,classical,100
+fan chant,chant,100
+dutch idol pop,pop,100
+rominimal,rominimal,100
+jumptek,jumptek,100
+vintage radio show,show,98
+malaysian metal,metal,100
+hungarian classical piano,classical,100
+experimental dub,dub,100
+serbian indie,indie,97
+deep sunset lounge,lounge,100
+austrian punk,punk,100
+villancicos,villancicos,100
+yoik,yoik,100
+american classical piano,classical,100
+cambridge choir,choir,100
+trikiti,trikiti,76
+future ambient,ambient,82
+chinese metal,metal,99
+fuji,fuji,100
+gumbe,gumbe,100
+pops orchestra,pop,95
+norwegian techno,techno,100
+florida hardcore,hardcore,100
+inuit pop,pop,83
+south african modern jazz,jazz,99
+wind symphony,classical,100
+brazilian lo-fi rock,rock,89
+latin shoegaze,latin,100
+fort wayne indie,indie,100
+indie sudcaliforniano,indie,100
+rotterdam indie,indie,100
+folk metal latinoamericano,metal,100
+cameroonian hip hop,hip hop,100
+abstractro,abstractro,100
+grim death metal,death metal,99
+afghan traditional,traditional,100
+bulgarian indie,indie,100
+nz punk,punk,100
+gochiusa,gochiusa,100
+japanese classical piano,classical,63
+italian emo,emo,100
+slovenian indie,indie,96
+arkansas metal,metal,100
+sacred steel,steel,100
+italian blues,blues,93
+convent,convent,100
+brockton hip hop,rock,100
+spanish psychedelic rock,rock,100
+dark minimal techno,techno,100
+brazilian experimental,experimental,100
+detskie rasskazy,ska,86
+japanese prog,prog,100
+math rock latinoamericano,rock,100
+romanian metal,metal,100
+chamame brasilero,brasilero,100
+crossover prog,prog,100
+rock potiguar,rock,100
+deep darkpsy,darkpsy,100
+deep r&amp;b,r&amp;b,100
+deep vocal house,house,100
+musica folk asturiana,folk,95
+polish techno,techno,100
+modern chamber music,music,100
+irish black metal,black metal,100
+shoegaze chileno,chileno,100
+oriental classical,classical,100
+german shoegaze,shoegaze,100
+sludgecore,sludgecore,100
+musica feirense,feirense,100
+boeremusiek,boeremusiek,100
+lute,lute,100
+sotalaulut,sotalaulut,99
+vaudeville,vaudeville,100
+coldwave,coldwave,100
+classic latvian pop,pop,100
+australian black metal,black metal,73
+fado instrumental,instrumental,100
+irish fiddle,fiddle,100
+skinhead oi,oi,100
+tigrigna pop,pop,100
+austrian stoner rock,rock,88
+slovenian folk,folk,100
+rap nortista,hip hop,100
+mexican post-rock,rock,100
+taiwan metal,metal,91
+italian black metal,black metal,100
+jazz dominicano,jazz,99
+vintage spanish pop,pop,100
+brazilian metalcore,metalcore,98
+isle of man indie,indie,80
+british classical piano,classical,100
+maghreb,maghreb,100
+australian classical piano,classical,98
+drama,drama,100
+mento,mento,100
+hungarian contemporary classical,classical,100
+finnish hardcore,hardcore,100
+gypsy,gypsy,100
+baithak gana,gana,100
+cantonese worship,worship,100
+war metal,metal,100
+new brunswick indie,indie,94
+volkstumliche musik,musik,100
+mevlevi sufi,sufi,100
+afro-cuban traditional,traditional,98
+musica rapa nui,hip hop,100
+starogradska,ska,100
+dortmund indie,indie,100
+eastern bloc groove,groove,100
+japanese choir,choir,100
+neo-proto,neo-proto,99
+goa trance,trance,100
+colombian electronic,electro,100
+tarantella,tarantella,100
+swedish emo,emo,100
+belgian post-rock,rock,60
+experimental black metal,black metal,100
+utah metal,metal,100
+raga rock,rock,100
+ukrainian black metal,black metal,100
+dutch stoner rock,rock,100
+sundanese traditional,traditional,100
+italian progressive metal,metal,100
+indie poblano,indie,100
+venda rap,hip hop,100
+piada,piada,62
+dutch punk rock,punk,100
+sesotho pop,pop,100
+luxembourgian hip hop,hip hop,100
+spanish blues,blues,100
+sarod,sarod,98
+clap and tap,tap,95
+metal gaucho,metal,100
+ancient mediterranean,mediterranean,100
+finnish choir,choir,100
+finnish electronic,electro,100
+musique concrete,concrete,100
+hula,hula,100
+byzantine,byzantine,86
+dragspel,dragspel,100
+latvian folk,folk,100
+indonesian neo-psychedelia,neo-psychedelia,100
+south sudanese pop,pop,95
+south african punk,punk,100
+greek punk,punk,100
+christmas product,product,100
+deep hardcore,hardcore,81
+indie boliviano,indie,53
+hull indie,indie,100
+serbian folk,folk,100
+northamptonshire indie,indie,100
+grisly death metal,death metal,100
+deep filthstep,filthstep,100
+lowercase,lowercase,100
+vintage hawaiian,hawaiian,100
+deep indie singer-songwriter,indie,100
+georgian alternative,alternative,100
+trekkspill,trekkspill,88
+rock catracho,rock,100
+japanese orchestra,orchestra,100
+disney russian,russian,98
+classical countertenor,classical,100
+cifteli,cifteli,100
+portsmouth indie,indie,53
+tamburica,tamburica,100
+chamber choir,choir,56
+combos nacionales,nacionales,100
+norwegian blues,blues,100
+chinese classical,classical,100
+cuban electronic,electro,100
+tuvan folk,folk,88
+wisconsin metal,metal,100
+italian stoner rock,rock,64
+deep italo disco,disco,100
+wuhan indie,indie,100
+igbo traditional,traditional,88
+instrumental death metal,death metal,100
+women's choir,choir,100
+indie psychedelic rock,rock,100
+fisarmonica,fisarmonica,64
+swiss punk,punk,100
+indian ambient,ambient,100
+euro hi-nrg,hi-nrg,100
+tibetan traditional,traditional,92
+south asian metal,metal,87
+australian thrash metal,thrash metal,100
+korean classical performance,classical,100
+ryukoka,ryukoka,100
+candombe,candombe,100
+american orchestra,orchestra,72
+vintage taiwan pop,pop,100
+bolivian metal,metal,94
+sufi chant,chant,95
+malawian pop,pop,100
+raw black metal,black metal,100
+brazilian stoner rock,rock,99
+slovenske chvaly,chvaly,100
+russian thrash metal,thrash metal,100
+rwandan hip hop,hip hop,91
+svensk indie,indie,100
+turkish death metal,death metal,67
+australian shoegaze,shoegaze,97
+koto,koto,100
+anime game,game,100
+dutch folk,folk,83
+modern electroacoustic,electro,100
+melodic progressive metal,metal,91
+rap malien,hip hop,100
+hungarian black metal,black metal,99
+classical trombone,classical,100
+italian doom metal,doom metal,100
+musica prehispanica,prehispanica,100
+power electronics,electro,89
+traditional southern folk,folk,100
+mainland se asia metal,metal,100
+deep free jazz,jazz,100
+hardingfele,hardingfele,90
+swedish contemporary classical,classical,83
+belgian punk,punk,63
+vaikiskos dainos,dainos,100
+tajik pop,pop,81
+pilates,pilates,100
+balalaika,balalaika,100
+guatemalan metal,metal,93
+australian hardcore,hardcore,60
+caucasian classical piano,classical,100
+russian choir,choir,100
+indian instrumental rock,rock,100
+musica acoriana,acoriana,100
+russian black metal,black metal,97
+israeli classical piano,classical,67
+lagu iban,iban,92
+christian thrash metal,thrash metal,100
+classical accordion,classical,100
+dutch underground hip hop,hip hop,100
+hakkapop,pop,100
+rock sergipano,rock,100
+brazilian black metal,black metal,100
+neo-trad prog,prog,84
+russian screamo,screamo,92
+jazz colombiano,jazz,92
+diy pop punk,punk,100
+tar,tar,100
+disney portugues,portugues,100
+utapri,utapri,100
+latin american classical piano,classical,100
+viet edm,edm,100
+leon gto indie,indie,100
+irish contemporary classical,classical,100
+colombian hardcore,hardcore,89
+clawhammer banjo,banjo,100
+medieval ensemble,ensemble,100
+traditional reggae,reggae,99
+minimal synth,synth,100
+neo honky tonk,tonk,98
+deep southern soul,soul,100
+musica menorquina,menorquina,100
+indie hidrocalido,indie,100
+garifuna folk,folk,99
+hardcore breaks,breaks,97
+russian death metal,death metal,100
+indie arequipeno,indie,100
+poetry,poetry,100
+veena,veena,42
+kannada bhava geethe,geethe,100
+edinburgh metal,metal,74
+latin american heavy psych,latin,100
+mexican techno,techno,100
+faroese folk,folk,100
+taiko,taiko,98
+bernu dziesmas,dziesmas,79
+rwandan gospel,gospel,100
+historic piano performance,performance,100
+yuri,yuri,81
+indie hidalguense,indie,100
+sambalpuri pop,pop,100
+western ny metal,metal,73
+brazilian rockabilly,rock,100
+umea indie,indie,100
+nhac thieu nhi,nhi,100
+neo soul-jazz,jazz,100
+namibian pop,pop,100
+mountain dulcimer,dulcimer,99
+tuna estudiantil,estudiantil,95
+streichquartett,streichquartett,84
+irish flute,flute,100
+musique ancienne,ancienne,90
+electroacoustic improvisation,electro,100
+croatian electronic,electro,100
+cape breton indie,indie,100
+circassian folk,folk,100
+italian occult psychedelia,psychedelia,100
+tabla,tabla,94
+demoscene,emo,100
+indonesian shoegaze,shoegaze,100
+classical bass,classical,100
+vintage finnish jazz,jazz,100
+stubenmusik,stubenmusik,92
+experimental dubstep,dubstep,95
+trio cubano,cubano,100
+swiss experimental,experimental,68
+turkish experimental,experimental,100
+taraneem,taraneem,100
+post-punk brasileiro,punk,100
+colombian black metal,black metal,97
+delaware indie,indie,100
+sunset lounge,lounge,100
+afrikaans gospel,gospel,100
+guitar case,case,94
+wrock,rock,100
+mathgrind,mathgrind,100
+malagasy folk,folk,78
+deep northern soul,soul,93
+bahamian folk,folk,100
+galway indie,indie,100
+musique mauritanienne,mauritanienne,100
+russian jazz,jazz,100
+bulgarian folk,folk,100
+russian orchestra,orchestra,98
+classical mezzo-soprano,classical,100
+lithuanian folk,folk,74
+spanish baroque,classical,100
+italian hardcore,hardcore,100
+irish ballad,ballad,100
+romanian black metal,black metal,100
+kinderchor,kinderchor,100
+chinese experimental,experimental,100
+american early music,music,71
+paracana,paracana,100
+noise,noise,100
+kinderliedjies,kinderliedjies,100
+folk cantabria,folk,100
+musica rondoniense,rondoniense,76
+rock nica,rock,100
+welsh choir,choir,100
+new jack smooth,smooth,100
+experimental percussion,percussion,100
+blues band,blues,100
+irish experimental electronic,electro,100
+korean punk,punk,100
+danish folk,folk,100
+arab experimental,experimental,100
+oratory,oratory,100
+brazilian contemporary classical,classical,80
+swedish grindcore,grindcore,100
+rap mocambicana,hip hop,96
+belarusian metal,metal,94
+molam,molam,100
+rock progresivo mexicano,rock,100
+rock pernambucano,rock,100
+marrabenta,marrabenta,100
+guatemalan indie,indie,100
+historic classical performance,classical,100
+pipa,pipa,100
+salon music,music,100
+french renaissance,renaissance,100
+terrorcore,terrorcore,100
+rajasthani folk,folk,91
+baroque singing,classical,100
+deep vocal jazz,jazz,82
+polish classical piano,classical,100
+scottish jazz,jazz,100
+nyahbinghi,nyahbinghi,99
+c64,c64,88
+normal indie,indie,95
+slovenian hip hop,hip hop,100
+scottish smallpipe,smallpipe,100
+classical flute,classical,82
+folclore portugues,portugues,100
+danish electro,electro,100
+spanish classical piano,classical,85
+oromo pop,pop,93
+himalayan folk,folk,100
+deep funk house,house,100
+estonian metal,metal,100
+irish gaelic folk,folk,88
+horror punk brasileiro,punk,100
+occult black metal,black metal,100
+folclore castilla y leon,leon,100
+men's choir,choir,98
+swazi pop,pop,81
+early french punk,punk,100
+classical percussion,classical,100
+xenharmonic,xenharmonic,95
+canadian stoner rock,rock,88
+konkani pop,pop,100
+spanish stoner rock,rock,92
+german contemporary classical,classical,92
+australian rockabilly,rock,100
+finnish techno,techno,100
+chinese post-punk,punk,100
+french experimental rock,rock,100
+indonesian experimental,experimental,100
+musica campineira,campineira,100
+saxony metal,metal,100
+chill groove,groove,100
+singaporean punk,punk,100
+barockinterpreten,rock,100
+modern performance,performance,100
+dweilorkest,dweilorkest,100
+igbo worship,worship,100
+brazilian heavy metal,metal,100
+deep punk rock,punk,49
+trap kreyol,trap,100
+thrash-groove metal,metal,81
+balafon,balafon,100
+deep classic garage rock,rock,88
+rock catarinense,rock,99
+botswana pop,pop,100
+iranian experimental,experimental,100
+post-punk colombiano,punk,100
+experimental big band,band,100
+alternative metalcore,metalcore,100
+metal salvadoreno,metal,100
+japanese hardcore,hardcore,100
+french folk,folk,96
+pontian folk,folk,100
+musica madeirense,madeirense,100
+deep active rock,rock,68
+slovak metal,metal,100
+guitarra portuguesa,portuguesa,97
+portuguese death metal,death metal,85
+italian baroque ensemble,classical,100
+organic ambient,ambient,100
+bulgarian metal,metal,85
+senegalese traditional,traditional,100
+deep full on,on,100
+belgian stoner rock,rock,80
+muzica ardeleneasca,ardeleneasca,95
+georgian folk,folk,100
+beat poetry,poetry,55
+spoken word,word,100
+musica brasiliense,brasiliense,99
+indie trujillano,indie,100
+chinese punk,punk,100
+greek jazz,jazz,100
+dhrupad,dhrupad,100
+kapa haka,haka,96
+javanese gamelan,gamelan,100
+idaho hip hop,hip hop,80
+autoharp,autoharp,100
+soda pop,pop,100
+polynesian traditional,traditional,100
+danish hardcore,hardcore,98
+rap paraense,hip hop,96
+rock abc paulista,rock,100
+italian modern prog,prog,100
+malang punk,punk,99
+rock dominicano,rock,100
+christian symphonic metal,metal,100
+dutch contemporary classical,classical,100
+coptic hymn,hymn,68
+macedonian indie,indie,90
+synthetic classical,classical,100
+andalusian classical,classical,100
+vintage classical singing,classical,100
+rakugo,rakugo,66
+re:techno,techno,100
+nagpuri pop,pop,99
+electroacoustic composition,electro,100
+punk ska,punk,100
+georgian electronic,electro,100
+rock sul-mato-grossense,rock,91
+deep swedish rock,rock,100
+deep motown,motown,95
+russian modern jazz,jazz,80
+tongan pop,pop,100
+zither,zither,72
+rock in opposition,rock,100
+spanish death metal,death metal,100
+zeuhl,zeuhl,100
+oxford choir,choir,100
+deep power-pop punk,punk,100
+new england experimental,experimental,62
+czech classical piano,classical,100
+vintage reggae,reggae,99
+italian soprano,soprano,85
+cuatro puertorriqueno,puertorriqueno,81
+brazilian surf rock,rock,79
+marathi hip hop,hip hop,100
+alpenpanorama,alpenpanorama,100
+singaporean metal,metal,100
+illbient,illbient,100
+orkney and shetland folk,folk,100
+brazilian post-rock,rock,100
+japanese black metal,black metal,86
+theremin,theremin,100
+somatik techno,techno,79
+sardinia indie,indie,100
+cerkes muzikleri,muzikleri,100
+hangoskonyvek,hangoskonyvek,100
+african metal,metal,100
+belfast indie,indie,100
+dutch experimental,experimental,64
+lincoln ne indie,indie,100
+gotico brasileiro,brasileiro,100
+odia bhajan,bhajan,100
+norwegian choir,choir,89
+eletronica underground brasileira,brasileira,94
+instrumental black metal,black metal,100
+modern mod,mod,97
+orquesta cubana,cubana,98
+bikutsi,bikutsi,100
+marimba,marimba,99
+classic konkani pop,pop,100
+austrian classical piano,classical,92
+cosmic uplifting trance,trance,70
+neo-trad doom metal,doom metal,87
+vintage swing,swing,100
+egyptian traditional,traditional,83
+min'yo,min'yo,91
+syro-aramaic chant,chant,100
+field recording,recording,100
+punk tico,punk,82
+classical baritone,classical,55
+string orchestra,orchestra,100
+cathedral choir,choir,100
+hard chime,chime,70
+middle eastern traditional,traditional,100
+metal noir quebecois,metal,100
+vintage old-time,old-time,100
+lagu maluku,maluku,90
+deep latin jazz,jazz,100
+king of prism,prism,66
+djembe,djembe,100
+bhutanese pop,pop,100
+lithuanian jazz,jazz,93
+italian classical guitar,classical,100
+guqin,guqin,100
+deep indie rock,rock,100
+chinese new year,year,93
+trombone brasileiro,brasileiro,63
+deep eurodance,eurodance,100
+gwoka,gwoka,99
+sakura wars,wars,68
+african experimental,experimental,86
+deep chill-out,chill-out,100
+acid idm,idm,73
+cantonese opera,classical,100
+tulum,tulum,100
+punk ecuatoriano,punk,100
+indie nica,indie,100
+colorado hardcore,hardcore,85
+gothic doom,doom,100
+bengali folk,folk,100
+musica londrinense,londrinense,100
+german grindcore,grindcore,100
+finnish contemporary classical,classical,94
+brass quintet,quintet,97
+indie tucumano,indie,100
+sound collage,collage,100
+pinoy traditional,traditional,100
+contemporary classical piano,classical,100
+croatian folk,folk,99
+deep surf music,music,100
+musique soninke,soninke,100
+sinhala edm,edm,89
+italian contemporary classical,classical,100
+british electroacoustic,electro,71
+h8000,h8000,100
+belgian hardcore,hardcore,63
+psybreaks,psybreaks,77
+metal tico,metal,100
+chhattisgarhi pop,pop,100
+swedish choir,choir,100
+trecento,trecento,100
+charred death,death,100
+proto-rap,hip hop,100
+musica blumenauense,blumenauense,89
+ceilidh,ceilidh,100
+dombra,dombra,100
+belgian experimental,experimental,100
+rap alagoano,hip hop,100
+israeli traditional,traditional,100
+lai hla,hla,100
+kantele,kantele,100
+guggenmusik,guggenmusik,100
+kentucky mountain folk,folk,88
+mexican power metal,power metal,74
+indonesian bamboo,bamboo,100
+musica mato-grossense,mato-grossense,100
+mexican electronic,electro,100
+indie queretano,indie,62
+saxophone trio,trio,100
+hard stoner rock,rock,95
+indie catracho,indie,100
+lagu karo,karo,100
+ukrainian choir,choir,90
+norwegian punk,punk,100
+metalcore espanol,metalcore,100
+kosovan folk,folk,55
+chill-out trance,trance,97
+slash punk,punk,100
+indonesian thrash metal,thrash metal,85
+czsk black metal,black metal,56
+grunge brasileiro,grunge,97
+musique traditionnelle congolaise,congolaise,98
+french contemporary classical,classical,88
+liberian pop,pop,100
+starmyu,starmyu,100
+folclore extremeno,extremeno,88
+shanghai indie,indie,86
+ceske chvaly,chvaly,61
+haitian traditional,traditional,100
+rap sergipano,hip hop,100
+bodo pop,pop,61
+tuna,tuna,100
+moorish traditional,traditional,99
+moravian folk,folk,92
+portuguese contemporary classical,classical,69
+polish metalcore,metalcore,91
+musica caririense,caririense,100
+greek clarinet,clarinet,88
+santur,santur,100
+folklore panameno,folk,89
+deep space rock,rock,88
+italian rockabilly,rock,79
+korean traditional,traditional,96
+industrial noise,noise,97
+vintage country folk,country,94
+baps,baps,100
+song poem,poem,100
+serbian metal,metal,91
+georgian polyphony,polyphony,100
+esperanto,esperanto,100
+bury st edmunds indie,edm,93
+deep breakcore,breakcore,100
+icelandic traditional,traditional,100
+experimental poetry,poetry,90
+afrikaans folk,folk,100
+glitter trance,trance,100
+deep hardtechno,techno,100
+jazz caraibes,jazz,100
+lithuanian metal,metal,94
+classical piano trio,classical,100
+deep hardcore punk,punk,100
+italian orchestra,orchestra,100
+dizi,dizi,50
+metal galego,metal,64
+korean experimental,experimental,68
+malawian folk,folk,100
+rock paraense,rock,100
+musica piemonteisa,emo,98
+antilliaanse folklore,folk,93
+alandsk musik,musik,100
+italo beats,beats,65
+muzica banateana,banateana,88
+spanish contemporary classical,classical,70
+german choir,choir,100
+borneo traditional,traditional,100
+portuguese post-rock,rock,96
+chinese wind,wind,91
+santa fe indie,indie,100
+canadian choir,choir,100
+ghoststep,ghoststep,100
+romanian classical piano,classical,100
+italian bass,bass,98
+albanian folk,folk,95
+orkiestra symfoniczna,symfoniczna,100
+thai psychedelic,psychedelic,100
+nordic orchestra,orchestra,61
+danish choir,choir,100
+cimbalom,cimbalom,100
+metal cearense,metal,100
+latvian metal,metal,100
+israeli classical,classical,88
+vintage gospel,gospel,100
+jazz composition,jazz,100
+recorder,recorder,100
+brazilian grindcore,grindcore,72
+polish noise rock,rock,100
+classical oboe,classical,100
+dub product,product,100
+brazilian classical piano,classical,100
+portuguese early music,music,100
+jazz tuba,jazz,100
+band organ,organ,100
+cryptic black metal,black metal,97
+metal uruguayo,metal,100
+classic nz country,country,100
+icelandic choir,choir,98
+indie nordeste argentino,indie,92
+classical guitar quartet,classical,100
+metal paraguayo,metal,84
+metal cristao,metal,100
+dubstep product,dubstep,100
+kikuyu gospel,gospel,100
+indie emo rock,emo,78
+maltese metal,metal,100
+caucasian folk,folk,100
+cimbalova muzika,muzika,100
+black metal argentino,black metal,61
+grunge argentina,grunge,100
+gong,gong,100
+ringtone,ringtone,100
+muzica maramureseana,maramureseana,100
+black noise,noise,100
+deep indie pop,pop,69
+historic orchestral performance,performance,100
+deep pop emo,emo,86
+folclore navarra,navarra,85
+magyar kabare,kabare,97
+northumbrian folk,folk,100
+belfast metal,metal,72
+classical contralto,classical,78
+nu electro,electro,100
+chamber ensemble,ensemble,100
+musica amapaense,amapaense,80
+muzica bisericeasca,bisericeasca,25
+spanish black metal,black metal,86
+aghani lil-atfal,lil-atfal,75
+goa psytrance,trance,92
+deep delta blues,blues,100
+botswanan pop,pop,100
+troubadour,troubadour,96
+jota aragonesa,aragonesa,98
+musica sinfonica,sinfonica,100
+classical guitar duo,classical,100
+ethiopian traditional,traditional,94
+taiwan experimental,experimental,100
+moroccan traditional,traditional,100
+post-rock latinoamericano,rock,85
+twin cities indie,indie,100
+latin american baroque,classical,78
+turkish black metal,black metal,96
+frevo,frevo,100
+harmonikka,harmonikka,90
+turkmen hip hop,hip hop,89
+hard dance,dance,85
+russian oi,oi,100
+czech hardcore,hardcore,100
+irish experimental,experimental,84
+danish contemporary classical,classical,79
+korean phantom singer,singer,97
+malian traditional,traditional,100
+italian baritone,baritone,56
+vintage rockabilly,rock,100
+jugendchor,jugendchor,100
+jewish cantorial,cantorial,97
+baltic black metal,black metal,43
+korean hardcore,hardcore,100
+bohol indie,indie,79
+irish modern jazz,jazz,85
+traditional irish singing,singing,87
+french orchestra,orchestra,100
+organetto,organetto,49
+fife and drum,drum,95
+korean classical piano,classical,100
+bulgarian experimental,experimental,54
+estonian jazz,jazz,100
+shehnai,shehnai,100
+baltic classical piano,classical,94
+lesotho traditional,traditional,100
+novos talentos brasileiros,brasileiros,70
+cypriot metal,metal,100
+jangle rock,rock,100
+minnesang,minnesang,100
+maldivian pop,pop,47
+galician jazz,jazz,80
+landler,landler,82
+italian heavy metal,metal,76
+modern free jazz,jazz,100
+kikuyu pop,pop,67
+inuit traditional,traditional,84
+appenzeller folk,folk,75
+musique traditionnelle comorienne,comorienne,70
+italian industrial,industrial,64
+thai traditional,traditional,86
+nordnorsk ponk,ponk,90
+rock nacional feminino,rock,72
+tatar folk,folk,100
+folklore quebecois,folk,67
+yiddish folk,folk,100
+malaysian traditional,traditional,100
+vintage swoon,swoon,64
+alphorn,alphorn,100
+indonesian black metal,black metal,92
+art song,song,89
+cante alentejano,alentejano,70
+ars subtilior,subtilior,100
+deep symphonic black metal,black metal,100
+central american metal,metal,68
+lok dohori,dohori,100
+austrian choir,choir,74
+jaw harp,harp,100
+modern downshift,downshift,100
+ethnomusicology,ethnomusicology,96
+new zealand classical,classical,100
+vietnamese traditional,traditional,100
+baltic choir,alternative,100
+hawaiian punk,punk,80
+balkan classical piano,classical,100
+metal baiano,metal,100
+iranian metal,metal,71
+luxembourgian electronic,electro,81
+suomisaundi,suomisaundi,100
+classical piano duo,classical,100
+uyghur folk,folk,94
+deep neo-synthpop,pop,100
+musica mogiana,mogiana,100
+trouvere,trouvere,100
+necrogrind,necrogrind,93
+indonesian electronic,electro,99
+alternative hardcore,alternative,90
+deep smooth r&amp;b,r&amp;b,100
+czech contemporary classical,classical,99
+canto a tenore,tenore,100
+boy soprano,soprano,85
+historical keyboard,keyboard,97
+deep deep tech house,house,100
+chilean black metal,black metal,98
+rhythm and boogie,boogie,100
+nadaswaram,nadaswaram,96
+animal singing,singing,46
+musica roraimense,roraimense,100
+chip hop,hip hop,24
+brazilian doom metal,doom metal,100
+police band,band,100
+tanzanian traditional,traditional,100
+baroque violin,classical,28
+musica puntana,puntana,100
+rock cristao fluminense,rock,100
+caribbean metal,metal,73
+deep orgcore,orgcore,100
+ainu folk,folk,100
+marcha funebre,funebre,100
+polish experimental,experimental,73
+luxembourgian metal,metal,97
+twee indie pop,pop,100
+australian choir,choir,96
+shantykoren,shantykoren,78
+mexican black metal,black metal,76
+ethereal gothic,gothic,100
+indie tabasqueno,indie,94
+taarab,taarab,75
+musica maringaense,maringaense,100
+metal balear,metal,100
+portuguese experimental,experimental,100
+cantonese traditional,traditional,40
+burkinabe traditional,traditional,100
+drone psych,psych,93
+gayageum,gayageum,48
+irish death metal,death metal,100
+trad jazz catala,jazz,100
+euphonium,euphonium,96
+central asian folk,folk,92
+metal pernambucano,metal,100
+austrian contemporary classical,classical,67
+puerto rican metal,metal,92
+vanuatu music,music,100
+musica ponta-grossense,ponta-grossense,100
+metal nortista,metal,100
+viola,viola,88
+metal catarinense,metal,95
+rock noise,rock,100
+classical saxophone quartet,classical,96
+baroque woodwind,classical,99
+bells,bells,79
+classical horn,classical,100
+peruvian death metal,death metal,75
+schrammelmusik,schrammelmusik,100
+classical tuba,classical,99
+montana metal,metal,50
+polish early music,music,53
+dark electro-industrial,electro,100
+pibroch,pibroch,94
+italian violin,violin,100
+venezuelan metal,metal,100
+glass,glass,80
+tahitian traditional,traditional,77
+baluchi folk,folk,73
+pygmy music,music,100
+swedish jazz orkester,jazz,97
+korean contemporary classical,classical,80
+musique alsacienne,alsacienne,100
+kazakh traditional,traditional,60
+cinematic dubstep,dubstep,100
+sarangi,sarangi,82
+draaiorgel,draaiorgel,70
+polish choir,choir,75
+indonesian indigenous,indigenous,100
+swiss contemporary classical,classical,100
+zampogna,zampogna,93
+romanian contemporary classical,classical,85
+school choir,choir,76
+kaba gaida,gaida,94
+classical bassoon,classical,86
+bothy ballad,ballad,70
+baroque cello,classical,44
+vintage western,western,84
+albanian iso polyphony,polyphony,100
+ghanaian traditional,traditional,98
+faroese jazz,jazz,78
+belgian classical piano,classical,48
+handbells,handbells,97
+polish free jazz,jazz,60
+peruvian experimental,experimental,100
+opera chorus,classical,69
+burundian traditional,traditional,77
+mazandarani folk,folk,64
+gay chorus,chorus,100
+quatuor a cordes,cordes,38
+burmese traditional,traditional,70
+rwandan traditional,traditional,94
+metal piauiense,metal,100
+kyrgyz traditional,traditional,85
+wind quintet,quintet,52
+tanci,tanci,100
+cambodian traditional,traditional,100
+school ensemble,ensemble,100
+papuan traditional,traditional,54
+uzbek traditional,traditional,77
+swiss classical piano,classical,78
+wandelweiser,wandelweiser,73
+italian mezzo-soprano,mezzo-soprano,88
+historic string quartet,quartet,74
+musica timor-leste,timor-leste,85
+kenyan traditional,traditional,74
+yemeni traditional,traditional,62
+tajik traditional,traditional,64
+chinese opera,classical,84
+lao traditional,traditional,53
+italian choir,choir,87
+wind ensemble,ensemble,62
+hungarian choir,choir,58
+quartetto d'archi,d'archi,100
+baroque brass,classical,28
+ugandan traditional,traditional,100
