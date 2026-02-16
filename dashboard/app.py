@@ -661,7 +661,7 @@ def update_genre_selection_content(active_tab):
             ),
             
             html.Div([
-                html.P("💡 Controls:", style={'color': colors['accent'], 'fontWeight': 'bold', 'marginBottom': '10px'}),
+                html.P(" Controls:", style={'color': colors['accent'], 'fontWeight': 'bold', 'marginBottom': '10px'}),
                 html.P("• Click on nodes to select/deselect genres", style={'color': colors['text'], 'fontSize': '13px', 'margin': '5px 0'}),
                 html.P("• Scroll to zoom in/out", style={'color': colors['text'], 'fontSize': '13px', 'margin': '5px 0'}),
                 html.P("• Drag to rotate the 3D view", style={'color': colors['text'], 'fontSize': '13px', 'margin': '5px 0'}),
